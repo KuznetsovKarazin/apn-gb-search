@@ -105,7 +105,7 @@ apn-gb-search/
 │   ├── class22_membership_batch003.json  # V_A membership for batch_003 (174 functions)
 │   ├── class22_membership_batch004.csv   # V_A membership for batch_004 (392 functions)
 │   ├── gold_test.json                # Gold x³, x⁹, x³³ S-boxes (positive controls)
-│   └── seeds/
+├── seeds/
 │       ├── batch_003_centers.json    # 128 APN center seeds used in batch_003
 │       └── batch_004_centers.json    # 300 APN center seeds used in batch_004
 │
@@ -279,10 +279,10 @@ If you use this code or data, please cite:
 ```bibtex
 @software{kuznetsov2026apngb,
   author  = {Kuznetsov, Oleksandr},
-  title   = {{apn-gb-search}: {G}r\"{o}bner Basis Search for New Quadratic {APN} Functions in Dimension 8},
+  title   = {{apn-gb-search}: Quadratic APN Functions in Dimension 8 via {G}r\"{o}bner Basis Search in a Self-Equivalence Subspace},
   year    = {2026},
   url     = {https://github.com/KuznetsovKarazin/apn-gb-search},
-  doi     = {10.5281/zenodo.XXXXXXX},
+  doi     = {10.5281/zenodo.20626047},
   version = {1.0.0}
 }
 ```
