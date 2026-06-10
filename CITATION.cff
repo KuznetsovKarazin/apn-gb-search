@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite as below."
+type: software
+
+title: "apn-gb-search: Gröbner Basis Search for New Quadratic APN Functions in Dimension 8"
+version: "1.0.0"
+date-released: "2026-06-10"
+url: "https://github.com/KuznetsovKarazin/apn-gb-search"
+license: MIT
+
+authors:
+  - family-names: Kuznetsov
+    given-names: Oleksandr
+    orcid: "https://orcid.org/0000-0003-2331-6326"
+    affiliation: >-
+      Department of Theoretical and Applied Sciences,
+      eCampus University, Novedrate (CO), Italy;
+      Department of Intelligent Software Systems and Technologies,
+      V.N. Karazin Kharkiv National University, Kharkiv, Ukraine
+    email: oleksandr.kuznetsov@uniecampus.it
+
+abstract: >-
+  Pipeline for discovering new CCZ-equivalence classes of quadratic
+  Almost Perfect Nonlinear (APN) functions over F_{2^8} via Gröbner
+  basis search within the Class-22 self-equivalence subspace V_A.
+  Finds 4 new CCZ-classes (566 functions total) absent from the
+  Beierle et al. 2025 database of 3.7 million known instances.
+
+keywords:
+  - APN functions
+  - Almost Perfect Nonlinear
+  - CCZ-equivalence
+  - Gröbner basis
+  - Boolean functions
+  - cryptography
+  - S-box
+  - finite fields
+
+repository-code: "https://github.com/KuznetsovKarazin/apn-gb-search"
+
+references:
+  - type: article
+    title: >-
+      Quadratic APN Functions in Dimension 8 via Gröbner Basis Search
+      in a Self-Equivalence Subspace
+    authors:
+      - family-names: Kuznetsov
+        given-names: Oleksandr
+    year: 2026
+    status: preprint
+
+  - type: software
+    title: "Dataset: apn-gb-search results"
+    authors:
+      - family-names: Kuznetsov
+        given-names: Oleksandr
+    repository-code: "https://doi.org/10.5281/zenodo.XXXXXXX"
+    notes: "Replace XXXXXXX with actual Zenodo DOI after upload"

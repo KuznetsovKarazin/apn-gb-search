@@ -1,0 +1,18 @@
+MERGED APN COLLECTION
+==================================================
+
+Total unique functions : 566
+  Centers (total=1)    : 362
+  With neighbors (>1)  : 204
+
+Per-batch stats:
+  batch_003: 174 records, 174 unique, 0 cross-dups, 68 rich
+  batch_004: 392 records, 392 unique, 0 cross-dups, 136 rich
+
+Next steps:
+  # Classify merged collection:
+  python src/classify_apn_standalone.py --found E:\apn-gb-search\results\merged\apn_all.json
+
+  # Check vs Beierle 2025 (with sboxU):
+  conda activate sage
+  python src/check_vs_beierle_db.py --found E:\apn-gb-search\results\merged\apn_all.json --known data/new_apns.txt --skip-pairwise

@@ -1,0 +1,242 @@
+{
+  "description": "Class-22 self-equivalence subspace V_A for n=8. Contains all parameters needed to reproduce the APN-GB-search pipeline.",
+  "reference": "Beierle, Brinkmann, Leander (2021), IEEE Trans. Inf. Theory 67(7):4863-4875",
+  "automorphism": {
+    "label": "A22 (BBL2021 class index 22)",
+    "characteristic_polynomial": "X^4 + X^3 + X^2 + X + 1  (Phi_5, cyclotomic, order 5)",
+    "construction": "A = block_diag(C(q), C(q)), where C(q) is the companion matrix of q = X^4+X^3+X^2+X+1 over GF(2)",
+    "companion_Cq_4x4": [
+      [
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        1
+      ]
+    ],
+    "matrix_A_8x8": [
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    ],
+    "order": 5,
+    "order_verified": true,
+    "membership_criterion": "F in V_A  <=>  F(A*x) = A*(F(x))  for all x in {0,...,255}",
+    "note": "The matrix A has order 5 (verified: A^5=I, A^k != I for k=1,2,3,4). Index '22' is BBL2021-internal numbering, no independent standard designation."
+  },
+  "subspace": {
+    "dimension": 40,
+    "ambient_space_dimension": 224,
+    "fixed_variables": 184,
+    "free_variables": 40,
+    "NL4_normalization": {
+      "description": "Fix the 200 ANF coefficients for monomial pairs (p,q) with p<=4; leave the 24 coefficients for pairs (5,6),(5,7),(6,7) free. This partitions V_A into 2^16 = 65536 disjoint 24-dimensional affine hyperplanes.",
+      "fixed_coefficients_per_slice": 200,
+      "free_coefficients_per_slice": 24,
+      "free_pairs": [
+        [
+          5,
+          6
+        ],
+        [
+          5,
+          7
+        ],
+        [
+          6,
+          7
+        ]
+      ],
+      "total_slices": 65536,
+      "slice_dimension": 24
+    },
+    "APN_density": {
+      "empirical_estimate": 0.0001,
+      "samples": 100000000,
+      "interpretation": "approximately 1 APN function per 11000 random points in V_A",
+      "global_comparison": "global APN density ~2^{-n} ~4e-3, but V_A density is ~40x lower due to structural constraints"
+    }
+  },
+  "search_results_summary": {
+    "batches_used": [
+      "batch_003",
+      "batch_004"
+    ],
+    "total_slices_explored": 428,
+    "coverage_percent": 0.65,
+    "total_APN_found": 566,
+    "in_V_A": 428,
+    "outside_V_A": 138,
+    "CCZ_classes_total": 6,
+    "CCZ_classes_new": 4,
+    "CCZ_classes_known": 2,
+    "classes": [
+      {
+        "paper_label": "CLASS-A",
+        "report_id": "CLASS-001",
+        "size": 362,
+        "ortho_sig_8chars": "9d95d9c4",
+        "in_V_A": true,
+        "status": "new",
+        "absent_from_Beierle2025": true
+      },
+      {
+        "paper_label": "CLASS-B",
+        "report_id": "CLASS-004",
+        "size": 72,
+        "ortho_sig_8chars": "c5f52f56",
+        "in_V_A": false,
+        "status": "new",
+        "absent_from_Beierle2025": true
+      },
+      {
+        "paper_label": "CLASS-C",
+        "report_id": "CLASS-006",
+        "size": 36,
+        "ortho_sig_8chars": "74a30c1a",
+        "in_V_A": false,
+        "status": "new",
+        "absent_from_Beierle2025": true
+      },
+      {
+        "paper_label": "CLASS-D",
+        "report_id": "CLASS-003",
+        "size": 30,
+        "ortho_sig_8chars": "024ba500",
+        "in_V_A": false,
+        "status": "new",
+        "absent_from_Beierle2025": true
+      },
+      {
+        "paper_label": "CLASS-E",
+        "report_id": "CLASS-005",
+        "size": 36,
+        "ortho_sig_8chars": "11cc72af",
+        "in_V_A": true,
+        "status": "known",
+        "known_as": "Gold x^3 / x^129 (positive control)",
+        "absent_from_Beierle2025": true,
+        "note": "Gold functions absent from new_apns.txt by design (that file contains only non-Gold)"
+      },
+      {
+        "paper_label": "CLASS-F",
+        "report_id": "CLASS-002",
+        "size": 30,
+        "ortho_sig_8chars": "d15183d1",
+        "in_V_A": true,
+        "status": "known",
+        "known_as": "Gold x^9 / x^33 (positive control)",
+        "absent_from_Beierle2025": true,
+        "note": "Gold functions absent from new_apns.txt by design"
+      }
+    ]
+  },
+  "verification_summary": {
+    "vs_Beierle2025_new_apns": {
+      "database_size": 3775599,
+      "result": "NO_MATCH for all 566 found functions",
+      "report_file": "results/found_apn_classes_report.json"
+    },
+    "vs_BBL2021_apn_8bit": {
+      "database_size": 12921,
+      "result": "NO_MATCH for all 566 found functions"
+    },
+    "vs_Gold_direct": {
+      "result": "CLASS-E matches Gold x^3, CLASS-F matches Gold x^9 (positive controls confirmed)"
+    }
+  }
+}

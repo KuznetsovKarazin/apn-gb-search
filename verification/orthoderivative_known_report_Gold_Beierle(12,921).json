@@ -1,0 +1,31 @@
+{
+  "method": "ortho_derivative differential_spectrum + absolute_walsh_spectrum",
+  "known_file": "data/apn_8bit.txt",
+  "parsed_known": 12921,
+  "bad_lines": 0,
+  "signature_errors": 0,
+  "elapsed_sec": 8.727243661880493,
+  "exact_on_hit": false,
+  "matches": {
+    "GOLD-x3": [],
+    "GOLD-x33": [],
+    "GOLD-x9": []
+  },
+  "exact_tests": {
+    "GOLD-x3": 0,
+    "GOLD-x33": 0,
+    "GOLD-x9": 0
+  },
+  "pairwise": [],
+  "groups": [
+    [
+      "GOLD-x3"
+    ],
+    [
+      "GOLD-x33"
+    ],
+    [
+      "GOLD-x9"
+    ]
+  ]
+}

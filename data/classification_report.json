@@ -1,0 +1,5103 @@
+{
+  "source": "E:\\apn-gb-search\\results\\merged\\apn_all.json",
+  "total_functions": 566,
+  "signature_buckets": 1,
+  "buckets": {
+    "9c5115a629cf6591": [
+      {
+        "id": "APN-0001",
+        "tag": "c22a_0001",
+        "sol": 1,
+        "total": 1,
+        "hash": "47fa1051b94efff8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0002",
+        "tag": "c22a_0002",
+        "sol": 1,
+        "total": 1,
+        "hash": "63e18ed26336914c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0003",
+        "tag": "c22a_0003",
+        "sol": 1,
+        "total": 2,
+        "hash": "4814cba3cc6bcd29",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0004",
+        "tag": "c22a_0003",
+        "sol": 2,
+        "total": 2,
+        "hash": "2e4d8b72834b2ac9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0005",
+        "tag": "c22a_0004",
+        "sol": 1,
+        "total": 1,
+        "hash": "0ea0275ef21bb5ac",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0006",
+        "tag": "c22a_0005",
+        "sol": 1,
+        "total": 1,
+        "hash": "50e6057987ecc01d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0007",
+        "tag": "c22a_0006",
+        "sol": 1,
+        "total": 1,
+        "hash": "67634f09622ec330",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0008",
+        "tag": "c22a_0007",
+        "sol": 1,
+        "total": 4,
+        "hash": "778430c403fb09f9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0009",
+        "tag": "c22a_0007",
+        "sol": 2,
+        "total": 4,
+        "hash": "cbb5fe15d554ba62",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0010",
+        "tag": "c22a_0007",
+        "sol": 3,
+        "total": 4,
+        "hash": "eb13679d261586b7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0011",
+        "tag": "c22a_0007",
+        "sol": 4,
+        "total": 4,
+        "hash": "e32d47ed73d76f3e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0012",
+        "tag": "c22a_0008",
+        "sol": 1,
+        "total": 1,
+        "hash": "985c5c4b1beeb030",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0013",
+        "tag": "c22a_0009",
+        "sol": 1,
+        "total": 1,
+        "hash": "b8e4f3046913492a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0014",
+        "tag": "c22a_0010",
+        "sol": 1,
+        "total": 4,
+        "hash": "9f3c86c65599961f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0015",
+        "tag": "c22a_0010",
+        "sol": 2,
+        "total": 4,
+        "hash": "a2ebdc3f0df9074e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0016",
+        "tag": "c22a_0010",
+        "sol": 3,
+        "total": 4,
+        "hash": "80318e3991f00440",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0017",
+        "tag": "c22a_0010",
+        "sol": 4,
+        "total": 4,
+        "hash": "2165309cf9bf2b1f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0018",
+        "tag": "c22a_0011",
+        "sol": 1,
+        "total": 4,
+        "hash": "da50ed5deba287c1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0019",
+        "tag": "c22a_0011",
+        "sol": 2,
+        "total": 4,
+        "hash": "e75fd7baae98428a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0020",
+        "tag": "c22a_0011",
+        "sol": 3,
+        "total": 4,
+        "hash": "351e932e88bbb77f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0021",
+        "tag": "c22a_0011",
+        "sol": 4,
+        "total": 4,
+        "hash": "56245589ccbfa3b1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0022",
+        "tag": "c22a_0012",
+        "sol": 1,
+        "total": 1,
+        "hash": "cb3ab84bb7f26d35",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0023",
+        "tag": "c22a_0013",
+        "sol": 1,
+        "total": 1,
+        "hash": "19cebd0d74949af4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0024",
+        "tag": "c22a_0014",
+        "sol": 1,
+        "total": 1,
+        "hash": "1a504573b99c26cd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0025",
+        "tag": "c22a_0015",
+        "sol": 1,
+        "total": 1,
+        "hash": "4e1d885187198681",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0026",
+        "tag": "c22a_0016",
+        "sol": 1,
+        "total": 1,
+        "hash": "0b4784d090a62010",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0027",
+        "tag": "c22a_0017",
+        "sol": 1,
+        "total": 1,
+        "hash": "ced81338dc0fc557",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0028",
+        "tag": "c22a_0018",
+        "sol": 1,
+        "total": 1,
+        "hash": "f2fbe5423c3a7276",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0029",
+        "tag": "c22a_0019",
+        "sol": 1,
+        "total": 1,
+        "hash": "0177674afc0b0951",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0030",
+        "tag": "c22a_0020",
+        "sol": 1,
+        "total": 4,
+        "hash": "262750df44bc3ec0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0031",
+        "tag": "c22a_0020",
+        "sol": 2,
+        "total": 4,
+        "hash": "38ef9eed2420550e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0032",
+        "tag": "c22a_0020",
+        "sol": 3,
+        "total": 4,
+        "hash": "7f19f9ac9ce591ba",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0033",
+        "tag": "c22a_0020",
+        "sol": 4,
+        "total": 4,
+        "hash": "c5bb1441744a6c40",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0034",
+        "tag": "c22a_0021",
+        "sol": 1,
+        "total": 1,
+        "hash": "09d766cbb0856ff7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0035",
+        "tag": "c22a_0022",
+        "sol": 1,
+        "total": 2,
+        "hash": "eeb9bb3e1e58bd4a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0036",
+        "tag": "c22a_0022",
+        "sol": 2,
+        "total": 2,
+        "hash": "260c740993e25a98",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0037",
+        "tag": "c22a_0023",
+        "sol": 1,
+        "total": 4,
+        "hash": "b5ebbf75343df24f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0038",
+        "tag": "c22a_0023",
+        "sol": 2,
+        "total": 4,
+        "hash": "4801cb893731bc21",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0039",
+        "tag": "c22a_0023",
+        "sol": 3,
+        "total": 4,
+        "hash": "206848144055de9a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0040",
+        "tag": "c22a_0023",
+        "sol": 4,
+        "total": 4,
+        "hash": "330b0a03fe9816f6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0041",
+        "tag": "c22a_0024",
+        "sol": 1,
+        "total": 1,
+        "hash": "94543d862337adfe",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0042",
+        "tag": "c22a_0025",
+        "sol": 1,
+        "total": 1,
+        "hash": "eff20ce8ae56c9d6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0043",
+        "tag": "c22a_0026",
+        "sol": 1,
+        "total": 1,
+        "hash": "074efa7d98f87902",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0044",
+        "tag": "c22a_0027",
+        "sol": 1,
+        "total": 1,
+        "hash": "b1af09543fcd32b9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0045",
+        "tag": "c22a_0028",
+        "sol": 1,
+        "total": 1,
+        "hash": "e56a8860f5959511",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0046",
+        "tag": "c22a_0029",
+        "sol": 1,
+        "total": 1,
+        "hash": "0065ad99a29216a3",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0047",
+        "tag": "c22a_0030",
+        "sol": 1,
+        "total": 1,
+        "hash": "937638666b5226a5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0048",
+        "tag": "c22a_0031",
+        "sol": 1,
+        "total": 1,
+        "hash": "1ba2e49b5479eb6f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0049",
+        "tag": "c22a_0032",
+        "sol": 1,
+        "total": 1,
+        "hash": "9c1491d5beeeb1e1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0050",
+        "tag": "c22a_0033",
+        "sol": 1,
+        "total": 1,
+        "hash": "0680397fd4f94db3",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0051",
+        "tag": "c22a_0034",
+        "sol": 1,
+        "total": 1,
+        "hash": "bb2cb7ed2ecb59db",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0052",
+        "tag": "c22a_0035",
+        "sol": 1,
+        "total": 1,
+        "hash": "37f9e472b44e69bf",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0053",
+        "tag": "c22a_0036",
+        "sol": 1,
+        "total": 1,
+        "hash": "0e04783cda398859",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0054",
+        "tag": "c22a_0037",
+        "sol": 1,
+        "total": 1,
+        "hash": "c334b3229da7ea36",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0055",
+        "tag": "c22a_0038",
+        "sol": 1,
+        "total": 4,
+        "hash": "f90c1cad2f040b2c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0056",
+        "tag": "c22a_0038",
+        "sol": 2,
+        "total": 4,
+        "hash": "30e618ff3db618f4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0057",
+        "tag": "c22a_0038",
+        "sol": 3,
+        "total": 4,
+        "hash": "2d91668bb6ed9bb8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0058",
+        "tag": "c22a_0038",
+        "sol": 4,
+        "total": 4,
+        "hash": "fdfec434f70b3ae7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0059",
+        "tag": "c22a_0039",
+        "sol": 1,
+        "total": 1,
+        "hash": "941bcc6ef972ddb0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0060",
+        "tag": "c22a_0040",
+        "sol": 1,
+        "total": 1,
+        "hash": "f6a1897bb608e9ee",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0061",
+        "tag": "c22a_0041",
+        "sol": 1,
+        "total": 1,
+        "hash": "87daf483ed72ea11",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0062",
+        "tag": "c22a_0042",
+        "sol": 1,
+        "total": 1,
+        "hash": "fa0a308fe43b4104",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0063",
+        "tag": "c22a_0043",
+        "sol": 1,
+        "total": 1,
+        "hash": "24aa300bf453cf9a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0064",
+        "tag": "c22a_0044",
+        "sol": 1,
+        "total": 1,
+        "hash": "328eb86263a6c5dc",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0065",
+        "tag": "c22a_0045",
+        "sol": 1,
+        "total": 1,
+        "hash": "3e6285e53bbb5c24",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0066",
+        "tag": "c22a_0046",
+        "sol": 1,
+        "total": 1,
+        "hash": "95226aba47b50bea",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0067",
+        "tag": "c22a_0047",
+        "sol": 1,
+        "total": 1,
+        "hash": "995af90a28668b27",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0068",
+        "tag": "c22a_0048",
+        "sol": 1,
+        "total": 1,
+        "hash": "e30206181260e257",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0069",
+        "tag": "c22a_0049",
+        "sol": 1,
+        "total": 1,
+        "hash": "fcc2e0c60dede8d6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0070",
+        "tag": "c22a_0050",
+        "sol": 1,
+        "total": 1,
+        "hash": "278fb2cabfce4354",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0071",
+        "tag": "c22a_0051",
+        "sol": 1,
+        "total": 1,
+        "hash": "49e076bc94de1d0f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0072",
+        "tag": "c22a_0052",
+        "sol": 1,
+        "total": 1,
+        "hash": "14a7e27508ca5e53",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0073",
+        "tag": "c22a_0053",
+        "sol": 1,
+        "total": 1,
+        "hash": "facf5151680b835e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0074",
+        "tag": "c22a_0054",
+        "sol": 1,
+        "total": 1,
+        "hash": "a37baecea81642c1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0075",
+        "tag": "c22a_0055",
+        "sol": 1,
+        "total": 1,
+        "hash": "455a8ffd3293d70a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0076",
+        "tag": "c22a_0056",
+        "sol": 1,
+        "total": 1,
+        "hash": "a2061ce285055819",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0077",
+        "tag": "c22a_0057",
+        "sol": 1,
+        "total": 1,
+        "hash": "80f57fb6e6565f02",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0078",
+        "tag": "c22a_0058",
+        "sol": 1,
+        "total": 4,
+        "hash": "378ae04eb40b1371",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0079",
+        "tag": "c22a_0058",
+        "sol": 2,
+        "total": 4,
+        "hash": "c0f157b48ad05398",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0080",
+        "tag": "c22a_0058",
+        "sol": 3,
+        "total": 4,
+        "hash": "6499c3560447b711",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0081",
+        "tag": "c22a_0058",
+        "sol": 4,
+        "total": 4,
+        "hash": "2136f13870b43440",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0082",
+        "tag": "c22a_0059",
+        "sol": 1,
+        "total": 1,
+        "hash": "cd59b4884ea33d26",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0083",
+        "tag": "c22a_0060",
+        "sol": 1,
+        "total": 1,
+        "hash": "4ef4009e98a1aaad",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0084",
+        "tag": "c22a_0061",
+        "sol": 1,
+        "total": 1,
+        "hash": "88af61d56de7eaf4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0085",
+        "tag": "c22a_0062",
+        "sol": 1,
+        "total": 1,
+        "hash": "47e8a26c3214d1dc",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0086",
+        "tag": "c22a_0063",
+        "sol": 1,
+        "total": 1,
+        "hash": "3570e5d3af67a7f1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0087",
+        "tag": "c22a_0064",
+        "sol": 1,
+        "total": 1,
+        "hash": "0dea9067dbeb95e3",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0088",
+        "tag": "c22a_0065",
+        "sol": 1,
+        "total": 1,
+        "hash": "f318f9fc5f7199f7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0089",
+        "tag": "c22a_0066",
+        "sol": 1,
+        "total": 1,
+        "hash": "99aa025617c1ccf1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0090",
+        "tag": "c22a_0067",
+        "sol": 1,
+        "total": 2,
+        "hash": "cb3ee411f94fb325",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0091",
+        "tag": "c22a_0067",
+        "sol": 2,
+        "total": 2,
+        "hash": "0690430d9d539e5a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0092",
+        "tag": "c22a_0068",
+        "sol": 1,
+        "total": 1,
+        "hash": "3d7871252dec478f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0093",
+        "tag": "c22a_0069",
+        "sol": 1,
+        "total": 4,
+        "hash": "3a011ac413134114",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0094",
+        "tag": "c22a_0069",
+        "sol": 2,
+        "total": 4,
+        "hash": "ce58b94d75a656e5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0095",
+        "tag": "c22a_0069",
+        "sol": 3,
+        "total": 4,
+        "hash": "b451c875b3410ccb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0096",
+        "tag": "c22a_0069",
+        "sol": 4,
+        "total": 4,
+        "hash": "e4bbe08961749173",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0097",
+        "tag": "c22a_0070",
+        "sol": 1,
+        "total": 4,
+        "hash": "ba707125840819bf",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0098",
+        "tag": "c22a_0070",
+        "sol": 2,
+        "total": 4,
+        "hash": "aa7630fc23b3bcc2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0099",
+        "tag": "c22a_0070",
+        "sol": 3,
+        "total": 4,
+        "hash": "d4207dc55a3a5d15",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0100",
+        "tag": "c22a_0070",
+        "sol": 4,
+        "total": 4,
+        "hash": "59aa4845961aed9d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0101",
+        "tag": "c22a_0071",
+        "sol": 1,
+        "total": 1,
+        "hash": "4abb2b9245d23f9c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0102",
+        "tag": "c22a_0072",
+        "sol": 1,
+        "total": 2,
+        "hash": "e4578494a2cf13e7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0103",
+        "tag": "c22a_0072",
+        "sol": 2,
+        "total": 2,
+        "hash": "ea49e7c81fe14be9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0104",
+        "tag": "c22a_0073",
+        "sol": 1,
+        "total": 1,
+        "hash": "86006e636d1cd09b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0105",
+        "tag": "c22a_0074",
+        "sol": 1,
+        "total": 1,
+        "hash": "f33ba9abc67068c8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0106",
+        "tag": "c22a_0075",
+        "sol": 1,
+        "total": 1,
+        "hash": "e253b8e4ff15f659",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0107",
+        "tag": "c22a_0076",
+        "sol": 1,
+        "total": 1,
+        "hash": "d0f5a5e687a5395b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0108",
+        "tag": "c22a_0077",
+        "sol": 1,
+        "total": 1,
+        "hash": "21896b43c34c197c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0109",
+        "tag": "c22a_0078",
+        "sol": 1,
+        "total": 1,
+        "hash": "694e2b530056fc28",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0110",
+        "tag": "c22a_0079",
+        "sol": 1,
+        "total": 4,
+        "hash": "7a453dfa0068f02c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0111",
+        "tag": "c22a_0079",
+        "sol": 2,
+        "total": 4,
+        "hash": "7b8057aaf382d592",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0112",
+        "tag": "c22a_0079",
+        "sol": 3,
+        "total": 4,
+        "hash": "c33ce0026ddcf512",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0113",
+        "tag": "c22a_0079",
+        "sol": 4,
+        "total": 4,
+        "hash": "56ac01829c584f8c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0114",
+        "tag": "c22a_0080",
+        "sol": 1,
+        "total": 2,
+        "hash": "4e8f8a13e9f7e6da",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0115",
+        "tag": "c22a_0080",
+        "sol": 2,
+        "total": 2,
+        "hash": "92b831b47090137a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0116",
+        "tag": "c22a_0081",
+        "sol": 1,
+        "total": 2,
+        "hash": "526f5be7ae82f5ce",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0117",
+        "tag": "c22a_0081",
+        "sol": 2,
+        "total": 2,
+        "hash": "c1bc7dc28fa5c5fa",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0118",
+        "tag": "c22a_0082",
+        "sol": 1,
+        "total": 1,
+        "hash": "82b3ba5589c28af0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0119",
+        "tag": "c22a_0083",
+        "sol": 1,
+        "total": 1,
+        "hash": "9318e21496908bfb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0120",
+        "tag": "c22a_0084",
+        "sol": 1,
+        "total": 1,
+        "hash": "bd0734e6ea337890",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0121",
+        "tag": "c22a_0085",
+        "sol": 1,
+        "total": 1,
+        "hash": "4d3f39c33905e2c2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0122",
+        "tag": "c22a_0086",
+        "sol": 1,
+        "total": 2,
+        "hash": "33c30622f6fbd4fe",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0123",
+        "tag": "c22a_0086",
+        "sol": 2,
+        "total": 2,
+        "hash": "aefdbcf63819cdb1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0124",
+        "tag": "c22a_0087",
+        "sol": 1,
+        "total": 1,
+        "hash": "6750803221d2ccfa",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0125",
+        "tag": "c22a_0088",
+        "sol": 1,
+        "total": 1,
+        "hash": "f2fb202da1b7192a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0126",
+        "tag": "c22a_0089",
+        "sol": 1,
+        "total": 1,
+        "hash": "bab7cf19387552fe",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0127",
+        "tag": "c22a_0090",
+        "sol": 1,
+        "total": 1,
+        "hash": "4a771809a92e8bed",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0128",
+        "tag": "c22a_0091",
+        "sol": 1,
+        "total": 1,
+        "hash": "e74c89fc7111d465",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0129",
+        "tag": "c22a_0092",
+        "sol": 1,
+        "total": 1,
+        "hash": "3ce3e00909600036",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0130",
+        "tag": "c22a_0093",
+        "sol": 1,
+        "total": 1,
+        "hash": "82397d727f14dc2a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0131",
+        "tag": "c22a_0094",
+        "sol": 1,
+        "total": 2,
+        "hash": "1c6872196fdcc49b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0132",
+        "tag": "c22a_0094",
+        "sol": 2,
+        "total": 2,
+        "hash": "bfc22cea2f404170",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0133",
+        "tag": "c22a_0095",
+        "sol": 1,
+        "total": 1,
+        "hash": "1858dd721d5facf7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0134",
+        "tag": "c22a_0096",
+        "sol": 1,
+        "total": 1,
+        "hash": "4ec05ad866498f30",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0135",
+        "tag": "c22a_0097",
+        "sol": 1,
+        "total": 1,
+        "hash": "1bfb2f00dd13bb02",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0136",
+        "tag": "c22a_0098",
+        "sol": 1,
+        "total": 1,
+        "hash": "ab32716ed6f7da52",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0137",
+        "tag": "c22a_0099",
+        "sol": 1,
+        "total": 1,
+        "hash": "2de6b14a4cd6565d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0138",
+        "tag": "c22a_0100",
+        "sol": 1,
+        "total": 1,
+        "hash": "26ff51ed88a608d8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0139",
+        "tag": "c22a_0101",
+        "sol": 1,
+        "total": 4,
+        "hash": "994d9f71980b45bc",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0140",
+        "tag": "c22a_0101",
+        "sol": 2,
+        "total": 4,
+        "hash": "45f4ab1a231bbb4e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0141",
+        "tag": "c22a_0101",
+        "sol": 3,
+        "total": 4,
+        "hash": "0e012578882f9075",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0142",
+        "tag": "c22a_0101",
+        "sol": 4,
+        "total": 4,
+        "hash": "c511d06a587d4938",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0143",
+        "tag": "c22a_0102",
+        "sol": 1,
+        "total": 1,
+        "hash": "295ae43e62d9165d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0144",
+        "tag": "c22a_0103",
+        "sol": 1,
+        "total": 4,
+        "hash": "ec073e6355242a87",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0145",
+        "tag": "c22a_0103",
+        "sol": 2,
+        "total": 4,
+        "hash": "9632b48d3db59433",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0146",
+        "tag": "c22a_0103",
+        "sol": 3,
+        "total": 4,
+        "hash": "3868e354d31223cc",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0147",
+        "tag": "c22a_0103",
+        "sol": 4,
+        "total": 4,
+        "hash": "7ad575b5616608dd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0148",
+        "tag": "c22a_0104",
+        "sol": 1,
+        "total": 1,
+        "hash": "94f5d2c31adbaa41",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0149",
+        "tag": "c22a_0105",
+        "sol": 1,
+        "total": 1,
+        "hash": "a21055cb7aa28618",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0150",
+        "tag": "c22a_0106",
+        "sol": 1,
+        "total": 1,
+        "hash": "5f0f40511be92c92",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0151",
+        "tag": "c22a_0107",
+        "sol": 1,
+        "total": 1,
+        "hash": "67f3736f4911dd89",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0152",
+        "tag": "c22a_0108",
+        "sol": 1,
+        "total": 1,
+        "hash": "84cbc18bc7101eb1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0153",
+        "tag": "c22a_0109",
+        "sol": 1,
+        "total": 1,
+        "hash": "537f22ed344a02e3",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0154",
+        "tag": "c22a_0110",
+        "sol": 1,
+        "total": 1,
+        "hash": "79903da60c65fc6a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0155",
+        "tag": "c22a_0111",
+        "sol": 1,
+        "total": 1,
+        "hash": "336babc3e2bdb184",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0156",
+        "tag": "c22a_0112",
+        "sol": 1,
+        "total": 1,
+        "hash": "8eed0d5f26661dc5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0157",
+        "tag": "c22a_0113",
+        "sol": 1,
+        "total": 1,
+        "hash": "2b9cd0d882a288a6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0158",
+        "tag": "c22a_0114",
+        "sol": 1,
+        "total": 1,
+        "hash": "5e56165f5fa155f2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0159",
+        "tag": "c22a_0115",
+        "sol": 1,
+        "total": 1,
+        "hash": "db035d262056490c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0160",
+        "tag": "c22a_0116",
+        "sol": 1,
+        "total": 1,
+        "hash": "e6a9b014822f4765",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0161",
+        "tag": "c22a_0117",
+        "sol": 1,
+        "total": 1,
+        "hash": "fbb29e48ee5dfe77",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0162",
+        "tag": "c22a_0118",
+        "sol": 1,
+        "total": 1,
+        "hash": "a00bd219a1efd010",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0163",
+        "tag": "c22a_0119",
+        "sol": 1,
+        "total": 1,
+        "hash": "6b39a664b84b6bfc",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0164",
+        "tag": "c22a_0120",
+        "sol": 1,
+        "total": 1,
+        "hash": "88fca1d412433588",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0165",
+        "tag": "c22a_0121",
+        "sol": 1,
+        "total": 1,
+        "hash": "02b930d8a01eef4e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0166",
+        "tag": "c22a_0122",
+        "sol": 1,
+        "total": 1,
+        "hash": "7168b5ba1a2d6e6e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0167",
+        "tag": "c22a_0123",
+        "sol": 1,
+        "total": 2,
+        "hash": "627444489e6ccf51",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0168",
+        "tag": "c22a_0123",
+        "sol": 2,
+        "total": 2,
+        "hash": "0c06135417124618",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0169",
+        "tag": "c22a_0124",
+        "sol": 1,
+        "total": 1,
+        "hash": "b8f2edb3d4c4f1f6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0170",
+        "tag": "c22a_0125",
+        "sol": 1,
+        "total": 1,
+        "hash": "7f342630bfdd9d20",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0171",
+        "tag": "c22a_0126",
+        "sol": 1,
+        "total": 2,
+        "hash": "41c91b133d25aff6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0172",
+        "tag": "c22a_0126",
+        "sol": 2,
+        "total": 2,
+        "hash": "f58d832fcab23edd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0173",
+        "tag": "c22a_0127",
+        "sol": 1,
+        "total": 1,
+        "hash": "24f887a213cbf18f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0174",
+        "tag": "c22a_0128",
+        "sol": 1,
+        "total": 1,
+        "hash": "c9a197a9105ba61f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0175",
+        "tag": "c22a_0001",
+        "sol": 1,
+        "total": 1,
+        "hash": "ff1b5d366a85f71b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0176",
+        "tag": "c22a_0002",
+        "sol": 1,
+        "total": 1,
+        "hash": "29cb913e09972ce9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0177",
+        "tag": "c22a_0003",
+        "sol": 1,
+        "total": 1,
+        "hash": "d737aec1d253c9c1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0178",
+        "tag": "c22a_0004",
+        "sol": 1,
+        "total": 1,
+        "hash": "19b968cb1fff971e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0179",
+        "tag": "c22a_0005",
+        "sol": 1,
+        "total": 1,
+        "hash": "be88e17bedee582c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0180",
+        "tag": "c22a_0006",
+        "sol": 1,
+        "total": 1,
+        "hash": "b5e58d1d1f864c6f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0181",
+        "tag": "c22a_0007",
+        "sol": 1,
+        "total": 1,
+        "hash": "b2eede6cc28b2c8b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0182",
+        "tag": "c22a_0008",
+        "sol": 1,
+        "total": 1,
+        "hash": "277020cbc49a4df2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0183",
+        "tag": "c22a_0009",
+        "sol": 1,
+        "total": 1,
+        "hash": "b43beca72d71784a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0184",
+        "tag": "c22a_0010",
+        "sol": 1,
+        "total": 1,
+        "hash": "b48f8bb0045522d0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0185",
+        "tag": "c22a_0011",
+        "sol": 1,
+        "total": 1,
+        "hash": "8816e2266d088fa7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0186",
+        "tag": "c22a_0012",
+        "sol": 1,
+        "total": 2,
+        "hash": "691e12443af4818f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0187",
+        "tag": "c22a_0012",
+        "sol": 2,
+        "total": 2,
+        "hash": "12fd213fca26914d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0188",
+        "tag": "c22a_0013",
+        "sol": 1,
+        "total": 1,
+        "hash": "66f034655e986cc3",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0189",
+        "tag": "c22a_0014",
+        "sol": 1,
+        "total": 1,
+        "hash": "aa5f067beb45615e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0190",
+        "tag": "c22a_0015",
+        "sol": 1,
+        "total": 1,
+        "hash": "df4f4d65dbd714af",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0191",
+        "tag": "c22a_0016",
+        "sol": 1,
+        "total": 1,
+        "hash": "646c687468c1c9ef",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0192",
+        "tag": "c22a_0017",
+        "sol": 1,
+        "total": 1,
+        "hash": "4e75880b784b25d9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0193",
+        "tag": "c22a_0018",
+        "sol": 1,
+        "total": 1,
+        "hash": "cab1689c68aa83d7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0194",
+        "tag": "c22a_0019",
+        "sol": 1,
+        "total": 1,
+        "hash": "67cc5fbc44c94b11",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0195",
+        "tag": "c22a_0020",
+        "sol": 1,
+        "total": 1,
+        "hash": "6dfd1c06e762e4c8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0196",
+        "tag": "c22a_0021",
+        "sol": 1,
+        "total": 1,
+        "hash": "4fdf050436326bcb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0197",
+        "tag": "c22a_0022",
+        "sol": 1,
+        "total": 1,
+        "hash": "99f2ed3c04695b02",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0198",
+        "tag": "c22a_0023",
+        "sol": 1,
+        "total": 1,
+        "hash": "8e41852c150de4ae",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0199",
+        "tag": "c22a_0024",
+        "sol": 1,
+        "total": 4,
+        "hash": "e71db696705c209b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0200",
+        "tag": "c22a_0024",
+        "sol": 2,
+        "total": 4,
+        "hash": "4be1a427791844db",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0201",
+        "tag": "c22a_0024",
+        "sol": 3,
+        "total": 4,
+        "hash": "dcf88211f08a6d6f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0202",
+        "tag": "c22a_0024",
+        "sol": 4,
+        "total": 4,
+        "hash": "fc76eb7a1a92cddd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0203",
+        "tag": "c22a_0025",
+        "sol": 1,
+        "total": 1,
+        "hash": "7dd471c2a2be49a7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0204",
+        "tag": "c22a_0026",
+        "sol": 1,
+        "total": 1,
+        "hash": "28d7ee432da648f6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0205",
+        "tag": "c22a_0027",
+        "sol": 1,
+        "total": 1,
+        "hash": "bbec469edf8a868f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0206",
+        "tag": "c22a_0028",
+        "sol": 1,
+        "total": 1,
+        "hash": "7ea5e612109bc144",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0207",
+        "tag": "c22a_0029",
+        "sol": 1,
+        "total": 1,
+        "hash": "101f1e22912976d2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0208",
+        "tag": "c22a_0030",
+        "sol": 1,
+        "total": 1,
+        "hash": "a7f2f4c538c645c1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0209",
+        "tag": "c22a_0031",
+        "sol": 1,
+        "total": 1,
+        "hash": "534a35aeb7b37c5f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0210",
+        "tag": "c22a_0032",
+        "sol": 1,
+        "total": 2,
+        "hash": "eb385deea012bbef",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0211",
+        "tag": "c22a_0032",
+        "sol": 2,
+        "total": 2,
+        "hash": "f68dc432a10d9a2b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0212",
+        "tag": "c22a_0033",
+        "sol": 1,
+        "total": 1,
+        "hash": "95f6f8fc68e3ebab",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0213",
+        "tag": "c22a_0034",
+        "sol": 1,
+        "total": 1,
+        "hash": "36a672ae6c307ee7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0214",
+        "tag": "c22a_0035",
+        "sol": 1,
+        "total": 1,
+        "hash": "c6d350ef10ec2f53",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0215",
+        "tag": "c22a_0036",
+        "sol": 1,
+        "total": 4,
+        "hash": "7f86e3d34faafda3",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0216",
+        "tag": "c22a_0036",
+        "sol": 2,
+        "total": 4,
+        "hash": "9beea30a0ded8570",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0217",
+        "tag": "c22a_0036",
+        "sol": 3,
+        "total": 4,
+        "hash": "4ac3b5fa2aaaac48",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0218",
+        "tag": "c22a_0036",
+        "sol": 4,
+        "total": 4,
+        "hash": "e319ab3b664869d8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0219",
+        "tag": "c22a_0037",
+        "sol": 1,
+        "total": 1,
+        "hash": "0ce33602fdc80efe",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0220",
+        "tag": "c22a_0038",
+        "sol": 1,
+        "total": 2,
+        "hash": "9ec6fc6d38c77c30",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0221",
+        "tag": "c22a_0038",
+        "sol": 2,
+        "total": 2,
+        "hash": "9976d1d8f4f5a1e0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0222",
+        "tag": "c22a_0039",
+        "sol": 1,
+        "total": 1,
+        "hash": "7cdc051968ca1efd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0223",
+        "tag": "c22a_0040",
+        "sol": 1,
+        "total": 1,
+        "hash": "5a6f2e69b1a8a8bb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0224",
+        "tag": "c22a_0041",
+        "sol": 1,
+        "total": 1,
+        "hash": "ed38c8b55f41468a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0225",
+        "tag": "c22a_0042",
+        "sol": 1,
+        "total": 1,
+        "hash": "1a951d63f6a32791",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0226",
+        "tag": "c22a_0043",
+        "sol": 1,
+        "total": 1,
+        "hash": "554f40fa1f24fcb0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0227",
+        "tag": "c22a_0044",
+        "sol": 1,
+        "total": 1,
+        "hash": "d87f620780b75687",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0228",
+        "tag": "c22a_0045",
+        "sol": 1,
+        "total": 2,
+        "hash": "c5099356a0690cea",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0229",
+        "tag": "c22a_0045",
+        "sol": 2,
+        "total": 2,
+        "hash": "306a9679d83aac82",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0230",
+        "tag": "c22a_0046",
+        "sol": 1,
+        "total": 1,
+        "hash": "7e1db61a105955b8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0231",
+        "tag": "c22a_0047",
+        "sol": 1,
+        "total": 1,
+        "hash": "3ab22d8666cfda64",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0232",
+        "tag": "c22a_0048",
+        "sol": 1,
+        "total": 1,
+        "hash": "0f43c3b208bf53f2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0233",
+        "tag": "c22a_0049",
+        "sol": 1,
+        "total": 1,
+        "hash": "72b3684c68e070d1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0234",
+        "tag": "c22a_0050",
+        "sol": 1,
+        "total": 1,
+        "hash": "f1f1854c9ef3a6bd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0235",
+        "tag": "c22a_0051",
+        "sol": 1,
+        "total": 1,
+        "hash": "af2a45bfb42daf2b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0236",
+        "tag": "c22a_0052",
+        "sol": 1,
+        "total": 1,
+        "hash": "eed7aab3385655c6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0237",
+        "tag": "c22a_0053",
+        "sol": 1,
+        "total": 1,
+        "hash": "533ee9251128dabb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0238",
+        "tag": "c22a_0054",
+        "sol": 1,
+        "total": 1,
+        "hash": "60bfef5afb6b03bc",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0239",
+        "tag": "c22a_0055",
+        "sol": 1,
+        "total": 1,
+        "hash": "b8bbbb32ad7b4228",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0240",
+        "tag": "c22a_0056",
+        "sol": 1,
+        "total": 1,
+        "hash": "85dc87df13346fbd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0241",
+        "tag": "c22a_0057",
+        "sol": 1,
+        "total": 1,
+        "hash": "501205eee1c370cf",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0242",
+        "tag": "c22a_0058",
+        "sol": 1,
+        "total": 1,
+        "hash": "99b9cf56f24fb8b8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0243",
+        "tag": "c22a_0059",
+        "sol": 1,
+        "total": 4,
+        "hash": "f4f91a79ad3c4409",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0244",
+        "tag": "c22a_0059",
+        "sol": 2,
+        "total": 4,
+        "hash": "39e47288026788da",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0245",
+        "tag": "c22a_0059",
+        "sol": 3,
+        "total": 4,
+        "hash": "dd9c8b11d53756d9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0246",
+        "tag": "c22a_0059",
+        "sol": 4,
+        "total": 4,
+        "hash": "9746087bfa954912",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0247",
+        "tag": "c22a_0060",
+        "sol": 1,
+        "total": 1,
+        "hash": "e827ad0e62c6c1ba",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0248",
+        "tag": "c22a_0061",
+        "sol": 1,
+        "total": 1,
+        "hash": "ddcdc8e2d1331a25",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0249",
+        "tag": "c22a_0062",
+        "sol": 1,
+        "total": 1,
+        "hash": "86125419afab7aa6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0250",
+        "tag": "c22a_0063",
+        "sol": 1,
+        "total": 1,
+        "hash": "39a673e2e8c664c7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0251",
+        "tag": "c22a_0064",
+        "sol": 1,
+        "total": 1,
+        "hash": "8c167c9692086d80",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0252",
+        "tag": "c22a_0065",
+        "sol": 1,
+        "total": 1,
+        "hash": "09a61d97bce9396b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0253",
+        "tag": "c22a_0066",
+        "sol": 1,
+        "total": 1,
+        "hash": "711346a489a696da",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0254",
+        "tag": "c22a_0067",
+        "sol": 1,
+        "total": 1,
+        "hash": "a6136887aa187f16",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0255",
+        "tag": "c22a_0068",
+        "sol": 1,
+        "total": 1,
+        "hash": "1cdf991efe22fc15",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0256",
+        "tag": "c22a_0069",
+        "sol": 1,
+        "total": 1,
+        "hash": "8d2c8972fce295cd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0257",
+        "tag": "c22a_0070",
+        "sol": 1,
+        "total": 1,
+        "hash": "8ff6566bcee1bd58",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0258",
+        "tag": "c22a_0071",
+        "sol": 1,
+        "total": 1,
+        "hash": "9c1b3cc14e2c3281",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0259",
+        "tag": "c22a_0072",
+        "sol": 1,
+        "total": 1,
+        "hash": "47816fef35e995d8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0260",
+        "tag": "c22a_0073",
+        "sol": 1,
+        "total": 1,
+        "hash": "0220a2895adff5ce",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0261",
+        "tag": "c22a_0074",
+        "sol": 1,
+        "total": 4,
+        "hash": "ba7d60f21c8929b5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0262",
+        "tag": "c22a_0074",
+        "sol": 2,
+        "total": 4,
+        "hash": "81d6fb5478f2efa6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0263",
+        "tag": "c22a_0074",
+        "sol": 3,
+        "total": 4,
+        "hash": "eeb84d65664af6ba",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0264",
+        "tag": "c22a_0074",
+        "sol": 4,
+        "total": 4,
+        "hash": "990e3b0aa9537e65",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0265",
+        "tag": "c22a_0075",
+        "sol": 1,
+        "total": 2,
+        "hash": "6aa9a4f0f15922f7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0266",
+        "tag": "c22a_0075",
+        "sol": 2,
+        "total": 2,
+        "hash": "d497c95fe00283bf",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0267",
+        "tag": "c22a_0076",
+        "sol": 1,
+        "total": 1,
+        "hash": "58ee599fadaa361e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0268",
+        "tag": "c22a_0077",
+        "sol": 1,
+        "total": 1,
+        "hash": "972c1fa81800be4f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0269",
+        "tag": "c22a_0078",
+        "sol": 1,
+        "total": 1,
+        "hash": "ca4d711bdd573ea1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0270",
+        "tag": "c22a_0079",
+        "sol": 1,
+        "total": 1,
+        "hash": "9d77bb2544df49bb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0271",
+        "tag": "c22a_0080",
+        "sol": 1,
+        "total": 1,
+        "hash": "dfcab9e5ffb8127c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0272",
+        "tag": "c22a_0081",
+        "sol": 1,
+        "total": 4,
+        "hash": "331a1b3cd0ecb495",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0273",
+        "tag": "c22a_0081",
+        "sol": 2,
+        "total": 4,
+        "hash": "c929622f4660c4a4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0274",
+        "tag": "c22a_0081",
+        "sol": 3,
+        "total": 4,
+        "hash": "b3fa9237b69d5e5c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0275",
+        "tag": "c22a_0081",
+        "sol": 4,
+        "total": 4,
+        "hash": "ea45d7daced65d4b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0276",
+        "tag": "c22a_0082",
+        "sol": 1,
+        "total": 2,
+        "hash": "4a59e87e3bd7fef3",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0277",
+        "tag": "c22a_0082",
+        "sol": 2,
+        "total": 2,
+        "hash": "98134c0772915732",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0278",
+        "tag": "c22a_0083",
+        "sol": 1,
+        "total": 4,
+        "hash": "8f78d9ce99daa20f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0279",
+        "tag": "c22a_0083",
+        "sol": 2,
+        "total": 4,
+        "hash": "2cb04e91b943ad07",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0280",
+        "tag": "c22a_0083",
+        "sol": 3,
+        "total": 4,
+        "hash": "c03d0b3e7124f3c7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0281",
+        "tag": "c22a_0083",
+        "sol": 4,
+        "total": 4,
+        "hash": "30d3750b3bf1409a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0282",
+        "tag": "c22a_0084",
+        "sol": 1,
+        "total": 1,
+        "hash": "bf6c6bbcebe2d8be",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0283",
+        "tag": "c22a_0085",
+        "sol": 1,
+        "total": 1,
+        "hash": "4216bcc955cce0e1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0284",
+        "tag": "c22a_0086",
+        "sol": 1,
+        "total": 1,
+        "hash": "e05501f29322a43e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0285",
+        "tag": "c22a_0087",
+        "sol": 1,
+        "total": 1,
+        "hash": "05763c3eac318088",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0286",
+        "tag": "c22a_0088",
+        "sol": 1,
+        "total": 1,
+        "hash": "140d8d2501c028da",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0287",
+        "tag": "c22a_0089",
+        "sol": 1,
+        "total": 1,
+        "hash": "774ea6dfb4c014af",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0288",
+        "tag": "c22a_0090",
+        "sol": 1,
+        "total": 1,
+        "hash": "f7e6cf14dcc9f009",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0289",
+        "tag": "c22a_0091",
+        "sol": 1,
+        "total": 1,
+        "hash": "707ca2c137c78fa9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0290",
+        "tag": "c22a_0092",
+        "sol": 1,
+        "total": 2,
+        "hash": "006af28008a78cda",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0291",
+        "tag": "c22a_0092",
+        "sol": 2,
+        "total": 2,
+        "hash": "28be1f90a52f77dd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0292",
+        "tag": "c22a_0093",
+        "sol": 1,
+        "total": 1,
+        "hash": "226330a9ef5cbc7e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0293",
+        "tag": "c22a_0094",
+        "sol": 1,
+        "total": 1,
+        "hash": "7aa7ee4ce1a6b3a8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0294",
+        "tag": "c22a_0095",
+        "sol": 1,
+        "total": 1,
+        "hash": "9478ec544b21bfd5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0295",
+        "tag": "c22a_0096",
+        "sol": 1,
+        "total": 1,
+        "hash": "8f724e56e5579901",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0296",
+        "tag": "c22a_0097",
+        "sol": 1,
+        "total": 1,
+        "hash": "ee78363f52c94b3c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0297",
+        "tag": "c22a_0098",
+        "sol": 1,
+        "total": 1,
+        "hash": "43348e4609b91fc7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0298",
+        "tag": "c22a_0099",
+        "sol": 1,
+        "total": 1,
+        "hash": "05b35bad2d0261f9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0299",
+        "tag": "c22a_0100",
+        "sol": 1,
+        "total": 1,
+        "hash": "07f4ff97cac74c50",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0300",
+        "tag": "c22a_0101",
+        "sol": 1,
+        "total": 1,
+        "hash": "beea3874540531bc",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0301",
+        "tag": "c22a_0102",
+        "sol": 1,
+        "total": 1,
+        "hash": "158a0ee257af261c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0302",
+        "tag": "c22a_0103",
+        "sol": 1,
+        "total": 1,
+        "hash": "236383e00865fe3e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0303",
+        "tag": "c22a_0104",
+        "sol": 1,
+        "total": 1,
+        "hash": "4ce3a6f7dbcb1ce8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0304",
+        "tag": "c22a_0105",
+        "sol": 1,
+        "total": 1,
+        "hash": "bacbecb80d378b42",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0305",
+        "tag": "c22a_0106",
+        "sol": 1,
+        "total": 1,
+        "hash": "aadc8a9e4cd3f633",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0306",
+        "tag": "c22a_0107",
+        "sol": 1,
+        "total": 1,
+        "hash": "1a2f696279880109",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0307",
+        "tag": "c22a_0108",
+        "sol": 1,
+        "total": 1,
+        "hash": "e26117e18bb0c487",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0308",
+        "tag": "c22a_0109",
+        "sol": 1,
+        "total": 1,
+        "hash": "df0cae0e8706d300",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0309",
+        "tag": "c22a_0110",
+        "sol": 1,
+        "total": 1,
+        "hash": "e39f8c19ff280f40",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0310",
+        "tag": "c22a_0111",
+        "sol": 1,
+        "total": 1,
+        "hash": "7b7eaa28ad91ed20",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0311",
+        "tag": "c22a_0112",
+        "sol": 1,
+        "total": 1,
+        "hash": "b74bef0077979965",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0312",
+        "tag": "c22a_0113",
+        "sol": 1,
+        "total": 1,
+        "hash": "c610e2312ae13a5a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0313",
+        "tag": "c22a_0114",
+        "sol": 1,
+        "total": 1,
+        "hash": "83ec56d2b735ab77",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0314",
+        "tag": "c22a_0115",
+        "sol": 1,
+        "total": 1,
+        "hash": "5d6e759108c5a503",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0315",
+        "tag": "c22a_0116",
+        "sol": 1,
+        "total": 2,
+        "hash": "3841509b3416885c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0316",
+        "tag": "c22a_0116",
+        "sol": 2,
+        "total": 2,
+        "hash": "e3b5b6b9e15b9093",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0317",
+        "tag": "c22a_0117",
+        "sol": 1,
+        "total": 1,
+        "hash": "83fd19d26358022c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0318",
+        "tag": "c22a_0118",
+        "sol": 1,
+        "total": 1,
+        "hash": "d165232c6c8d955c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0319",
+        "tag": "c22a_0119",
+        "sol": 1,
+        "total": 1,
+        "hash": "06c45c8ccfefa74b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0320",
+        "tag": "c22a_0120",
+        "sol": 1,
+        "total": 1,
+        "hash": "8c517f5a675ac847",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0321",
+        "tag": "c22a_0121",
+        "sol": 1,
+        "total": 4,
+        "hash": "afbf169e63b02713",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0322",
+        "tag": "c22a_0121",
+        "sol": 2,
+        "total": 4,
+        "hash": "d6b3f1619bb36750",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0323",
+        "tag": "c22a_0121",
+        "sol": 3,
+        "total": 4,
+        "hash": "77269140d90bcb33",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0324",
+        "tag": "c22a_0121",
+        "sol": 4,
+        "total": 4,
+        "hash": "2a6df0a0321b188c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0325",
+        "tag": "c22a_0122",
+        "sol": 1,
+        "total": 1,
+        "hash": "e5064f3d401b6b0f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0326",
+        "tag": "c22a_0123",
+        "sol": 1,
+        "total": 1,
+        "hash": "15017986d94a7f7b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0327",
+        "tag": "c22a_0124",
+        "sol": 1,
+        "total": 1,
+        "hash": "c0c4bc73ecdab2f2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0328",
+        "tag": "c22a_0125",
+        "sol": 1,
+        "total": 1,
+        "hash": "e63735a49f3aa483",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0329",
+        "tag": "c22a_0126",
+        "sol": 1,
+        "total": 1,
+        "hash": "5643a635a3af54ab",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0330",
+        "tag": "c22a_0127",
+        "sol": 1,
+        "total": 1,
+        "hash": "312a1ea0887f7123",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0331",
+        "tag": "c22a_0128",
+        "sol": 1,
+        "total": 1,
+        "hash": "ddbfdf252b9a76bf",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0332",
+        "tag": "c22a_0129",
+        "sol": 1,
+        "total": 1,
+        "hash": "ac0c1a6afcfb6ba5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0333",
+        "tag": "c22a_0130",
+        "sol": 1,
+        "total": 1,
+        "hash": "feb3822225321bd2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0334",
+        "tag": "c22a_0131",
+        "sol": 1,
+        "total": 1,
+        "hash": "88bebf1422307f29",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0335",
+        "tag": "c22a_0132",
+        "sol": 1,
+        "total": 1,
+        "hash": "951b945e72d9d543",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0336",
+        "tag": "c22a_0133",
+        "sol": 1,
+        "total": 2,
+        "hash": "7fd4686ed91a299f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0337",
+        "tag": "c22a_0133",
+        "sol": 2,
+        "total": 2,
+        "hash": "47a0e913cecaae07",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0338",
+        "tag": "c22a_0134",
+        "sol": 1,
+        "total": 4,
+        "hash": "da1db5863b413185",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0339",
+        "tag": "c22a_0134",
+        "sol": 2,
+        "total": 4,
+        "hash": "3e117ad4af745021",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0340",
+        "tag": "c22a_0134",
+        "sol": 3,
+        "total": 4,
+        "hash": "15c101797a3760e0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0341",
+        "tag": "c22a_0134",
+        "sol": 4,
+        "total": 4,
+        "hash": "d095f83c49b16723",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0342",
+        "tag": "c22a_0135",
+        "sol": 1,
+        "total": 1,
+        "hash": "bde9168d0a2fb03f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0343",
+        "tag": "c22a_0136",
+        "sol": 1,
+        "total": 1,
+        "hash": "f19d552b75ce93c7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0344",
+        "tag": "c22a_0137",
+        "sol": 1,
+        "total": 1,
+        "hash": "3a3a2b5bc9573d0d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0345",
+        "tag": "c22a_0138",
+        "sol": 1,
+        "total": 1,
+        "hash": "2db7bbbdd03f03b8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0346",
+        "tag": "c22a_0139",
+        "sol": 1,
+        "total": 1,
+        "hash": "3ea792df78401275",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0347",
+        "tag": "c22a_0140",
+        "sol": 1,
+        "total": 1,
+        "hash": "7f25c48d3c192560",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0348",
+        "tag": "c22a_0141",
+        "sol": 1,
+        "total": 1,
+        "hash": "2b7b9938f9143737",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0349",
+        "tag": "c22a_0142",
+        "sol": 1,
+        "total": 1,
+        "hash": "4a1232184651cad5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0350",
+        "tag": "c22a_0143",
+        "sol": 1,
+        "total": 1,
+        "hash": "df7697599a2a39d4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0351",
+        "tag": "c22a_0144",
+        "sol": 1,
+        "total": 1,
+        "hash": "86c7fca72ddd9ae7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0352",
+        "tag": "c22a_0145",
+        "sol": 1,
+        "total": 1,
+        "hash": "14e1f60b5bddd7a1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0353",
+        "tag": "c22a_0146",
+        "sol": 1,
+        "total": 1,
+        "hash": "a1f04502f8e7c2c9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0354",
+        "tag": "c22a_0147",
+        "sol": 1,
+        "total": 1,
+        "hash": "da9a8ccdcbc7cb55",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0355",
+        "tag": "c22a_0148",
+        "sol": 1,
+        "total": 1,
+        "hash": "fdcda63e3d39dec1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0356",
+        "tag": "c22a_0149",
+        "sol": 1,
+        "total": 4,
+        "hash": "870782583b112e86",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0357",
+        "tag": "c22a_0149",
+        "sol": 2,
+        "total": 4,
+        "hash": "d5221537c847e91a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0358",
+        "tag": "c22a_0149",
+        "sol": 3,
+        "total": 4,
+        "hash": "b80cb9ac9b641de6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0359",
+        "tag": "c22a_0149",
+        "sol": 4,
+        "total": 4,
+        "hash": "7f4a83bb3ec3bb50",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0360",
+        "tag": "c22a_0150",
+        "sol": 1,
+        "total": 4,
+        "hash": "571fb3325d8a9cbb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0361",
+        "tag": "c22a_0150",
+        "sol": 2,
+        "total": 4,
+        "hash": "c56bbe1fc34a752c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0362",
+        "tag": "c22a_0150",
+        "sol": 3,
+        "total": 4,
+        "hash": "9ef7cd2c7573304d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0363",
+        "tag": "c22a_0150",
+        "sol": 4,
+        "total": 4,
+        "hash": "57f52f53072fbef9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0364",
+        "tag": "c22a_0151",
+        "sol": 1,
+        "total": 1,
+        "hash": "c40daaa756b434d5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0365",
+        "tag": "c22a_0152",
+        "sol": 1,
+        "total": 1,
+        "hash": "fc573495418eaadb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0366",
+        "tag": "c22a_0153",
+        "sol": 1,
+        "total": 1,
+        "hash": "25eebc541a7c084f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0367",
+        "tag": "c22a_0154",
+        "sol": 1,
+        "total": 1,
+        "hash": "1e67acf02e91bdc4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0368",
+        "tag": "c22a_0155",
+        "sol": 1,
+        "total": 1,
+        "hash": "6adacf999a4a4029",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0369",
+        "tag": "c22a_0156",
+        "sol": 1,
+        "total": 4,
+        "hash": "c380a9c7a4ef29ed",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0370",
+        "tag": "c22a_0156",
+        "sol": 2,
+        "total": 4,
+        "hash": "53f5d679668e444c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0371",
+        "tag": "c22a_0156",
+        "sol": 3,
+        "total": 4,
+        "hash": "2988fa412fc20bb2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0372",
+        "tag": "c22a_0156",
+        "sol": 4,
+        "total": 4,
+        "hash": "86c99ee6b83dbce5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0373",
+        "tag": "c22a_0157",
+        "sol": 1,
+        "total": 1,
+        "hash": "45cd6f25cf938e9d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0374",
+        "tag": "c22a_0158",
+        "sol": 1,
+        "total": 1,
+        "hash": "1a11439cc295edeb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0375",
+        "tag": "c22a_0159",
+        "sol": 1,
+        "total": 1,
+        "hash": "cb1d138bc5c8a012",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0376",
+        "tag": "c22a_0160",
+        "sol": 1,
+        "total": 1,
+        "hash": "4b697c22a5b25426",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0377",
+        "tag": "c22a_0161",
+        "sol": 1,
+        "total": 1,
+        "hash": "16a6281f6e29ae57",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0378",
+        "tag": "c22a_0162",
+        "sol": 1,
+        "total": 4,
+        "hash": "f0a94c5b28836e24",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0379",
+        "tag": "c22a_0162",
+        "sol": 2,
+        "total": 4,
+        "hash": "21e3d1c710dbcaae",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0380",
+        "tag": "c22a_0162",
+        "sol": 3,
+        "total": 4,
+        "hash": "7b3290807a4268eb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0381",
+        "tag": "c22a_0162",
+        "sol": 4,
+        "total": 4,
+        "hash": "0eedd2882d910486",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0382",
+        "tag": "c22a_0163",
+        "sol": 1,
+        "total": 2,
+        "hash": "88e258201606d961",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0383",
+        "tag": "c22a_0163",
+        "sol": 2,
+        "total": 2,
+        "hash": "a6412bfb4447a7b1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0384",
+        "tag": "c22a_0164",
+        "sol": 1,
+        "total": 1,
+        "hash": "ce6f2d45530a2457",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0385",
+        "tag": "c22a_0165",
+        "sol": 1,
+        "total": 1,
+        "hash": "60136945ec9dc654",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0386",
+        "tag": "c22a_0166",
+        "sol": 1,
+        "total": 4,
+        "hash": "5e8ce3beb7893a82",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0387",
+        "tag": "c22a_0166",
+        "sol": 2,
+        "total": 4,
+        "hash": "de2d351a72b25fec",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0388",
+        "tag": "c22a_0166",
+        "sol": 3,
+        "total": 4,
+        "hash": "f8d9fe92df581b34",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0389",
+        "tag": "c22a_0166",
+        "sol": 4,
+        "total": 4,
+        "hash": "a840b8daf5676206",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0390",
+        "tag": "c22a_0167",
+        "sol": 1,
+        "total": 1,
+        "hash": "a412ad8833fd423d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0391",
+        "tag": "c22a_0168",
+        "sol": 1,
+        "total": 1,
+        "hash": "21e30c6622e6e6f9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0392",
+        "tag": "c22a_0169",
+        "sol": 1,
+        "total": 1,
+        "hash": "b845b08b5e3ca4e9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0393",
+        "tag": "c22a_0170",
+        "sol": 1,
+        "total": 1,
+        "hash": "89eda148135df5fe",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0394",
+        "tag": "c22a_0171",
+        "sol": 1,
+        "total": 1,
+        "hash": "d7bcf3dc1120afb6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0395",
+        "tag": "c22a_0172",
+        "sol": 1,
+        "total": 1,
+        "hash": "c41349e5963ba96a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0396",
+        "tag": "c22a_0173",
+        "sol": 1,
+        "total": 1,
+        "hash": "0cf73bb95e514aa7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0397",
+        "tag": "c22a_0174",
+        "sol": 1,
+        "total": 1,
+        "hash": "b84c7dbb27c477b8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0398",
+        "tag": "c22a_0175",
+        "sol": 1,
+        "total": 1,
+        "hash": "990391bfdd596aca",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0399",
+        "tag": "c22a_0176",
+        "sol": 1,
+        "total": 1,
+        "hash": "c8cfd6a479a60d99",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0400",
+        "tag": "c22a_0177",
+        "sol": 1,
+        "total": 4,
+        "hash": "ad3f8b5b3c872af2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0401",
+        "tag": "c22a_0177",
+        "sol": 2,
+        "total": 4,
+        "hash": "1e901742d191ffe9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0402",
+        "tag": "c22a_0177",
+        "sol": 3,
+        "total": 4,
+        "hash": "eb28c0eaccc3da1e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0403",
+        "tag": "c22a_0177",
+        "sol": 4,
+        "total": 4,
+        "hash": "8d89b27fe298e88a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0404",
+        "tag": "c22a_0178",
+        "sol": 1,
+        "total": 1,
+        "hash": "56ac1a4c4dfaa7e2",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0405",
+        "tag": "c22a_0179",
+        "sol": 1,
+        "total": 1,
+        "hash": "f2f3554b88904441",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0406",
+        "tag": "c22a_0180",
+        "sol": 1,
+        "total": 1,
+        "hash": "5df69c57ea638340",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0407",
+        "tag": "c22a_0181",
+        "sol": 1,
+        "total": 1,
+        "hash": "e2e53dd0762c53fd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0408",
+        "tag": "c22a_0182",
+        "sol": 1,
+        "total": 1,
+        "hash": "f0245095a1741564",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0409",
+        "tag": "c22a_0183",
+        "sol": 1,
+        "total": 1,
+        "hash": "b4d6ca4aaab20f78",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0410",
+        "tag": "c22a_0184",
+        "sol": 1,
+        "total": 4,
+        "hash": "561843c291acb04d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0411",
+        "tag": "c22a_0184",
+        "sol": 2,
+        "total": 4,
+        "hash": "e3713f4f1fd897b5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0412",
+        "tag": "c22a_0184",
+        "sol": 3,
+        "total": 4,
+        "hash": "6a675aa9e4ffda2e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0413",
+        "tag": "c22a_0184",
+        "sol": 4,
+        "total": 4,
+        "hash": "4627bce3d51f1014",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0414",
+        "tag": "c22a_0185",
+        "sol": 1,
+        "total": 1,
+        "hash": "998d7ca24dd1c541",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0415",
+        "tag": "c22a_0186",
+        "sol": 1,
+        "total": 1,
+        "hash": "981c699b83455dee",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0416",
+        "tag": "c22a_0187",
+        "sol": 1,
+        "total": 1,
+        "hash": "7e852f3e6646c7c0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0417",
+        "tag": "c22a_0188",
+        "sol": 1,
+        "total": 4,
+        "hash": "cb5ca7e98d68b7f4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0418",
+        "tag": "c22a_0188",
+        "sol": 2,
+        "total": 4,
+        "hash": "2ff8e9dddecdb665",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0419",
+        "tag": "c22a_0188",
+        "sol": 3,
+        "total": 4,
+        "hash": "1e151db3e8222ee5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0420",
+        "tag": "c22a_0188",
+        "sol": 4,
+        "total": 4,
+        "hash": "bae8f3408d434d8c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0421",
+        "tag": "c22a_0189",
+        "sol": 1,
+        "total": 1,
+        "hash": "aae0445cc3785320",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0422",
+        "tag": "c22a_0190",
+        "sol": 1,
+        "total": 1,
+        "hash": "8391b412436c6047",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0423",
+        "tag": "c22a_0191",
+        "sol": 1,
+        "total": 1,
+        "hash": "fe28b8defa54ff26",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0424",
+        "tag": "c22a_0192",
+        "sol": 1,
+        "total": 1,
+        "hash": "4e30b4f259d46325",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0425",
+        "tag": "c22a_0193",
+        "sol": 1,
+        "total": 2,
+        "hash": "a4ee137706cc2675",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0426",
+        "tag": "c22a_0193",
+        "sol": 2,
+        "total": 2,
+        "hash": "79055224876c806f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0427",
+        "tag": "c22a_0194",
+        "sol": 1,
+        "total": 1,
+        "hash": "ac726c1db668cd32",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0428",
+        "tag": "c22a_0195",
+        "sol": 1,
+        "total": 1,
+        "hash": "9e1538e6eaa8ce96",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0429",
+        "tag": "c22a_0196",
+        "sol": 1,
+        "total": 4,
+        "hash": "04631d935ca745ce",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0430",
+        "tag": "c22a_0196",
+        "sol": 2,
+        "total": 4,
+        "hash": "16f88dcface88881",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0431",
+        "tag": "c22a_0196",
+        "sol": 3,
+        "total": 4,
+        "hash": "263a3d8aa0823a0f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0432",
+        "tag": "c22a_0196",
+        "sol": 4,
+        "total": 4,
+        "hash": "67048073672c9a61",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0433",
+        "tag": "c22a_0197",
+        "sol": 1,
+        "total": 1,
+        "hash": "148de33eedc93951",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0434",
+        "tag": "c22a_0198",
+        "sol": 1,
+        "total": 1,
+        "hash": "e341a122def18a77",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0435",
+        "tag": "c22a_0199",
+        "sol": 1,
+        "total": 1,
+        "hash": "733f1f07ae6c158a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0436",
+        "tag": "c22a_0200",
+        "sol": 1,
+        "total": 1,
+        "hash": "4f4d66b693942f6e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0437",
+        "tag": "c22a_0201",
+        "sol": 1,
+        "total": 1,
+        "hash": "b57369a508ca836c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0438",
+        "tag": "c22a_0202",
+        "sol": 1,
+        "total": 1,
+        "hash": "7391dfde1bdd3f25",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0439",
+        "tag": "c22a_0203",
+        "sol": 1,
+        "total": 1,
+        "hash": "4ad8ee70467cd91c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0440",
+        "tag": "c22a_0204",
+        "sol": 1,
+        "total": 1,
+        "hash": "cce678734211cd93",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0441",
+        "tag": "c22a_0205",
+        "sol": 1,
+        "total": 1,
+        "hash": "02ec3ff486bbd8ac",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0442",
+        "tag": "c22a_0206",
+        "sol": 1,
+        "total": 2,
+        "hash": "0496ff3e9b252137",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0443",
+        "tag": "c22a_0206",
+        "sol": 2,
+        "total": 2,
+        "hash": "971f421f145c3078",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0444",
+        "tag": "c22a_0207",
+        "sol": 1,
+        "total": 2,
+        "hash": "4538f465de05c338",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0445",
+        "tag": "c22a_0207",
+        "sol": 2,
+        "total": 2,
+        "hash": "4a412835234035ba",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0446",
+        "tag": "c22a_0208",
+        "sol": 1,
+        "total": 2,
+        "hash": "19e3a985ef92f20f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0447",
+        "tag": "c22a_0208",
+        "sol": 2,
+        "total": 2,
+        "hash": "5ef2b9fd3e0614cd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0448",
+        "tag": "c22a_0209",
+        "sol": 1,
+        "total": 1,
+        "hash": "e343dc2cb2db6987",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0449",
+        "tag": "c22a_0210",
+        "sol": 1,
+        "total": 1,
+        "hash": "92414e8340609995",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0450",
+        "tag": "c22a_0211",
+        "sol": 1,
+        "total": 1,
+        "hash": "dbb418d5c6e09dc8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0451",
+        "tag": "c22a_0212",
+        "sol": 1,
+        "total": 1,
+        "hash": "bbac297355824c2a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0452",
+        "tag": "c22a_0213",
+        "sol": 1,
+        "total": 1,
+        "hash": "275ed647dc609479",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0453",
+        "tag": "c22a_0214",
+        "sol": 1,
+        "total": 1,
+        "hash": "912a6950b178bd26",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0454",
+        "tag": "c22a_0215",
+        "sol": 1,
+        "total": 1,
+        "hash": "7ca78fbd884ce9b6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0455",
+        "tag": "c22a_0216",
+        "sol": 1,
+        "total": 1,
+        "hash": "438a0b01025ccd30",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0456",
+        "tag": "c22a_0217",
+        "sol": 1,
+        "total": 1,
+        "hash": "a188a1e6f6d69991",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0457",
+        "tag": "c22a_0218",
+        "sol": 1,
+        "total": 1,
+        "hash": "a71d730038e15819",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0458",
+        "tag": "c22a_0219",
+        "sol": 1,
+        "total": 2,
+        "hash": "8664e94a59beec46",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0459",
+        "tag": "c22a_0219",
+        "sol": 2,
+        "total": 2,
+        "hash": "da8bb8212c3f790e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0460",
+        "tag": "c22a_0220",
+        "sol": 1,
+        "total": 1,
+        "hash": "0338a3633b5b8717",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0461",
+        "tag": "c22a_0221",
+        "sol": 1,
+        "total": 2,
+        "hash": "1c1ac05f2df93d90",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0462",
+        "tag": "c22a_0221",
+        "sol": 2,
+        "total": 2,
+        "hash": "ec5eec81f9f8179e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0463",
+        "tag": "c22a_0222",
+        "sol": 1,
+        "total": 1,
+        "hash": "79e3307dcc91aa76",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0464",
+        "tag": "c22a_0223",
+        "sol": 1,
+        "total": 1,
+        "hash": "a6c5f341ef29d85c",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0465",
+        "tag": "c22a_0224",
+        "sol": 1,
+        "total": 2,
+        "hash": "dea33c90eeea28e3",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0466",
+        "tag": "c22a_0224",
+        "sol": 2,
+        "total": 2,
+        "hash": "3e3f5db6708431c8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0467",
+        "tag": "c22a_0225",
+        "sol": 1,
+        "total": 1,
+        "hash": "25f1d874b9a22b39",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0468",
+        "tag": "c22a_0226",
+        "sol": 1,
+        "total": 1,
+        "hash": "15c795b7fb25fafb",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0469",
+        "tag": "c22a_0227",
+        "sol": 1,
+        "total": 1,
+        "hash": "00bd28908d16a3d6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0470",
+        "tag": "c22a_0228",
+        "sol": 1,
+        "total": 1,
+        "hash": "3979fa4bb8eb6bfa",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0471",
+        "tag": "c22a_0229",
+        "sol": 1,
+        "total": 1,
+        "hash": "5afd8245a4d950f8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0472",
+        "tag": "c22a_0230",
+        "sol": 1,
+        "total": 2,
+        "hash": "719020dae2de9af8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0473",
+        "tag": "c22a_0230",
+        "sol": 2,
+        "total": 2,
+        "hash": "50c8f08e0fa38507",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0474",
+        "tag": "c22a_0231",
+        "sol": 1,
+        "total": 1,
+        "hash": "e44645b65780b922",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0475",
+        "tag": "c22a_0232",
+        "sol": 1,
+        "total": 1,
+        "hash": "52ba124c97c14f74",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0476",
+        "tag": "c22a_0233",
+        "sol": 1,
+        "total": 1,
+        "hash": "aeb68a5660209b16",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0477",
+        "tag": "c22a_0234",
+        "sol": 1,
+        "total": 1,
+        "hash": "84586f4a0cc18196",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0478",
+        "tag": "c22a_0235",
+        "sol": 1,
+        "total": 1,
+        "hash": "d73295df366f8880",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0479",
+        "tag": "c22a_0236",
+        "sol": 1,
+        "total": 1,
+        "hash": "3d21a1438609efb3",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0480",
+        "tag": "c22a_0237",
+        "sol": 1,
+        "total": 1,
+        "hash": "d258e50ad7216ffa",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0481",
+        "tag": "c22a_0238",
+        "sol": 1,
+        "total": 1,
+        "hash": "e046a06f3dc7ddef",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0482",
+        "tag": "c22a_0239",
+        "sol": 1,
+        "total": 1,
+        "hash": "095ea2fbb179de42",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0483",
+        "tag": "c22a_0240",
+        "sol": 1,
+        "total": 1,
+        "hash": "736b073d3fbfc9c7",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0484",
+        "tag": "c22a_0241",
+        "sol": 1,
+        "total": 4,
+        "hash": "3e4b3f9579a7b2d9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0485",
+        "tag": "c22a_0241",
+        "sol": 2,
+        "total": 4,
+        "hash": "4c91e351848a22ad",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0486",
+        "tag": "c22a_0241",
+        "sol": 3,
+        "total": 4,
+        "hash": "5b16dc9d04221322",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0487",
+        "tag": "c22a_0241",
+        "sol": 4,
+        "total": 4,
+        "hash": "9f1501ee2f4a684e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0488",
+        "tag": "c22a_0242",
+        "sol": 1,
+        "total": 1,
+        "hash": "a3b5e2e236504e97",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0489",
+        "tag": "c22a_0243",
+        "sol": 1,
+        "total": 1,
+        "hash": "538ff4bbe49f1f90",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0490",
+        "tag": "c22a_0244",
+        "sol": 1,
+        "total": 1,
+        "hash": "13e2c6a421c0fc81",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0491",
+        "tag": "c22a_0245",
+        "sol": 1,
+        "total": 1,
+        "hash": "ef4c361cbe856910",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0492",
+        "tag": "c22a_0246",
+        "sol": 1,
+        "total": 1,
+        "hash": "f936e9a0780bf93a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0493",
+        "tag": "c22a_0247",
+        "sol": 1,
+        "total": 1,
+        "hash": "4e91b4901750725b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0494",
+        "tag": "c22a_0248",
+        "sol": 1,
+        "total": 2,
+        "hash": "f95d10db7cf680bc",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0495",
+        "tag": "c22a_0248",
+        "sol": 2,
+        "total": 2,
+        "hash": "ab08208eb1b5cb3a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0496",
+        "tag": "c22a_0249",
+        "sol": 1,
+        "total": 1,
+        "hash": "3362750c34241589",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0497",
+        "tag": "c22a_0250",
+        "sol": 1,
+        "total": 4,
+        "hash": "c76f0cb99bc7efce",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0498",
+        "tag": "c22a_0250",
+        "sol": 2,
+        "total": 4,
+        "hash": "710dff56479e5e7e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0499",
+        "tag": "c22a_0250",
+        "sol": 3,
+        "total": 4,
+        "hash": "b0564adc08f1f687",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0500",
+        "tag": "c22a_0250",
+        "sol": 4,
+        "total": 4,
+        "hash": "ea1eceb51b352ce9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0501",
+        "tag": "c22a_0251",
+        "sol": 1,
+        "total": 1,
+        "hash": "30ca19e1b88907b4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0502",
+        "tag": "c22a_0252",
+        "sol": 1,
+        "total": 1,
+        "hash": "3afded0e445872c0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0503",
+        "tag": "c22a_0253",
+        "sol": 1,
+        "total": 1,
+        "hash": "07b8abccfb8b176f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0504",
+        "tag": "c22a_0254",
+        "sol": 1,
+        "total": 1,
+        "hash": "451e3078ffafbd61",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0505",
+        "tag": "c22a_0255",
+        "sol": 1,
+        "total": 1,
+        "hash": "9d3aaeceecf4a511",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0506",
+        "tag": "c22a_0256",
+        "sol": 1,
+        "total": 4,
+        "hash": "2e28f48083522db5",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0507",
+        "tag": "c22a_0256",
+        "sol": 2,
+        "total": 4,
+        "hash": "d67a42a4f9bbf6b9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0508",
+        "tag": "c22a_0256",
+        "sol": 3,
+        "total": 4,
+        "hash": "0934dd908f76ba72",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0509",
+        "tag": "c22a_0256",
+        "sol": 4,
+        "total": 4,
+        "hash": "59f0b97c1b66f345",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0510",
+        "tag": "c22a_0257",
+        "sol": 1,
+        "total": 1,
+        "hash": "b1ed124b6ad05050",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0511",
+        "tag": "c22a_0258",
+        "sol": 1,
+        "total": 1,
+        "hash": "5fef0ada9eba1f0b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0512",
+        "tag": "c22a_0259",
+        "sol": 1,
+        "total": 1,
+        "hash": "ce46a7fd45054ebd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0513",
+        "tag": "c22a_0260",
+        "sol": 1,
+        "total": 1,
+        "hash": "9a5f08d7a03055ac",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0514",
+        "tag": "c22a_0261",
+        "sol": 1,
+        "total": 1,
+        "hash": "9ae4191beaf2b2d6",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0515",
+        "tag": "c22a_0262",
+        "sol": 1,
+        "total": 4,
+        "hash": "355a55aa755d2756",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0516",
+        "tag": "c22a_0262",
+        "sol": 2,
+        "total": 4,
+        "hash": "4bebfe6f0bca3ef8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0517",
+        "tag": "c22a_0262",
+        "sol": 3,
+        "total": 4,
+        "hash": "1ce8e0c6e87f64d4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0518",
+        "tag": "c22a_0262",
+        "sol": 4,
+        "total": 4,
+        "hash": "3f8193e899353453",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0519",
+        "tag": "c22a_0263",
+        "sol": 1,
+        "total": 1,
+        "hash": "6a4c169423b1f50d",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0520",
+        "tag": "c22a_0264",
+        "sol": 1,
+        "total": 1,
+        "hash": "7830192a0ad07521",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0521",
+        "tag": "c22a_0265",
+        "sol": 1,
+        "total": 1,
+        "hash": "7a6fb05f26ea12da",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0522",
+        "tag": "c22a_0266",
+        "sol": 1,
+        "total": 1,
+        "hash": "7f860ecd43f8eb85",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0523",
+        "tag": "c22a_0267",
+        "sol": 1,
+        "total": 2,
+        "hash": "8b8e0da4f369ca78",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0524",
+        "tag": "c22a_0267",
+        "sol": 2,
+        "total": 2,
+        "hash": "a3d59a4e303ab2ce",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0525",
+        "tag": "c22a_0268",
+        "sol": 1,
+        "total": 1,
+        "hash": "f032c8e86bd2c1b1",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0526",
+        "tag": "c22a_0269",
+        "sol": 1,
+        "total": 4,
+        "hash": "f2688ee44bb29a3b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0527",
+        "tag": "c22a_0269",
+        "sol": 2,
+        "total": 4,
+        "hash": "9f009d9a0e7e0705",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0528",
+        "tag": "c22a_0269",
+        "sol": 3,
+        "total": 4,
+        "hash": "b3cfcf141541a335",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0529",
+        "tag": "c22a_0269",
+        "sol": 4,
+        "total": 4,
+        "hash": "efbd59ac1851f4d8",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0530",
+        "tag": "c22a_0270",
+        "sol": 1,
+        "total": 1,
+        "hash": "8ae948b5cee77321",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0531",
+        "tag": "c22a_0271",
+        "sol": 1,
+        "total": 1,
+        "hash": "f83806fbf66a0114",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0532",
+        "tag": "c22a_0272",
+        "sol": 1,
+        "total": 4,
+        "hash": "4cd1a6d5bab7da98",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0533",
+        "tag": "c22a_0272",
+        "sol": 2,
+        "total": 4,
+        "hash": "1e746a6dd9549d4e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0534",
+        "tag": "c22a_0272",
+        "sol": 3,
+        "total": 4,
+        "hash": "32d8c73b60a1bdc9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0535",
+        "tag": "c22a_0272",
+        "sol": 4,
+        "total": 4,
+        "hash": "b69737bfc8151843",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0536",
+        "tag": "c22a_0273",
+        "sol": 1,
+        "total": 1,
+        "hash": "48bd97b6d1045468",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0537",
+        "tag": "c22a_0274",
+        "sol": 1,
+        "total": 1,
+        "hash": "b9a707d2b856d581",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0538",
+        "tag": "c22a_0275",
+        "sol": 1,
+        "total": 1,
+        "hash": "974c3795c6ba009a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0539",
+        "tag": "c22a_0276",
+        "sol": 1,
+        "total": 1,
+        "hash": "dcc3dacce4afcb83",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0540",
+        "tag": "c22a_0277",
+        "sol": 1,
+        "total": 1,
+        "hash": "83f6d778474645ea",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0541",
+        "tag": "c22a_0278",
+        "sol": 1,
+        "total": 1,
+        "hash": "654da44d3b64f4ff",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0542",
+        "tag": "c22a_0279",
+        "sol": 1,
+        "total": 1,
+        "hash": "348790b839080e27",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0543",
+        "tag": "c22a_0280",
+        "sol": 1,
+        "total": 1,
+        "hash": "c4c6b9233cdc0b9f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0544",
+        "tag": "c22a_0281",
+        "sol": 1,
+        "total": 1,
+        "hash": "84a1d4d75cc42a25",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0545",
+        "tag": "c22a_0282",
+        "sol": 1,
+        "total": 1,
+        "hash": "1a1ef1d3a6333dcf",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0546",
+        "tag": "c22a_0283",
+        "sol": 1,
+        "total": 4,
+        "hash": "f7c1508dc61dfbfd",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0547",
+        "tag": "c22a_0283",
+        "sol": 2,
+        "total": 4,
+        "hash": "c4f67796bbae1d4a",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0548",
+        "tag": "c22a_0283",
+        "sol": 3,
+        "total": 4,
+        "hash": "9f25c9ddccef3900",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0549",
+        "tag": "c22a_0283",
+        "sol": 4,
+        "total": 4,
+        "hash": "8c1d12cf220ea3a0",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0550",
+        "tag": "c22a_0284",
+        "sol": 1,
+        "total": 1,
+        "hash": "30dda994d174335b",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0551",
+        "tag": "c22a_0285",
+        "sol": 1,
+        "total": 1,
+        "hash": "8d57dc1695a29f9e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0552",
+        "tag": "c22a_0286",
+        "sol": 1,
+        "total": 1,
+        "hash": "2d951128f882885f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0553",
+        "tag": "c22a_0287",
+        "sol": 1,
+        "total": 1,
+        "hash": "c23b81671dd58c50",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0554",
+        "tag": "c22a_0288",
+        "sol": 1,
+        "total": 1,
+        "hash": "fe01d20ae24fda08",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0555",
+        "tag": "c22a_0289",
+        "sol": 1,
+        "total": 1,
+        "hash": "288bd9afdb9d3915",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0556",
+        "tag": "c22a_0290",
+        "sol": 1,
+        "total": 1,
+        "hash": "65913890bace49f4",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0557",
+        "tag": "c22a_0291",
+        "sol": 1,
+        "total": 1,
+        "hash": "71ff429e42a08c18",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0558",
+        "tag": "c22a_0292",
+        "sol": 1,
+        "total": 1,
+        "hash": "1aa571ceb3e9984f",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0559",
+        "tag": "c22a_0293",
+        "sol": 1,
+        "total": 1,
+        "hash": "3d458ac420e2976e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0560",
+        "tag": "c22a_0294",
+        "sol": 1,
+        "total": 1,
+        "hash": "898ba58d0a4de874",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0561",
+        "tag": "c22a_0295",
+        "sol": 1,
+        "total": 1,
+        "hash": "d08f54466b61dfff",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0562",
+        "tag": "c22a_0296",
+        "sol": 1,
+        "total": 1,
+        "hash": "307b78a06127f092",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0563",
+        "tag": "c22a_0297",
+        "sol": 1,
+        "total": 1,
+        "hash": "0021c4783cc281d9",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0564",
+        "tag": "c22a_0298",
+        "sol": 1,
+        "total": 1,
+        "hash": "1716847dd16d2074",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0565",
+        "tag": "c22a_0299",
+        "sol": 1,
+        "total": 1,
+        "hash": "cbcd96dbb9c1a49e",
+        "degree": 2,
+        "du": 2
+      },
+      {
+        "id": "APN-0566",
+        "tag": "c22a_0300",
+        "sol": 1,
+        "total": 1,
+        "hash": "a26c92c7c6340cb3",
+        "degree": 2,
+        "du": 2
+      }
+    ]
+  }
+}

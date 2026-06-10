@@ -1,0 +1,20 @@
+Magma V2.20-9     Mon Jun 08 2026 00:34:00 on DESKTOP-RGAQTBK [Seed = 
+2631075688]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "apn_ds_test_l0000001.m"
+=== ds_test_l0000001 ===
+norm_eqs= 200  free= 24
+  a= 50 /255 t= 3.187 s
+  a= 100 /255 t= 18.296 s
+  a= 150 /255 t= 80.234 s
+  a= 200 /255 t= 262.468 s
+  a= 250 /255 t= 631.531 s
+ds_test_l0000001 | build= 742.437 s | max_terms= 840 230
+ds_test_l0000001 | GB= 13.093 s | dim= 0 |G|= 224
+ds_test_l0000001 | Solutions: 1
+  sol 1 : APN= true perm= false
+DONE ds_test_l0000001
+MAGMA_PROCESS_EXIT
+
+Total time: 756.484 seconds, Total memory usage: 131.91MB

@@ -1,0 +1,31 @@
+ORTHO-DERIVATIVE INVARIANT CHECK AGAINST KNOWN APN DATABASE
+================================================================================
+method: differential_spectrum(ortho_derivative(F)) + absolute_walsh_spectrum(ortho_derivative(F))
+known_file: data/new_apns.txt
+parsed_known: 3775599
+bad_lines: 0
+signature_errors: 0
+elapsed_sec: 2945.66
+exact_on_hit: False
+
+GOLD-x3: NO_SIGNATURE_MATCH_IN_DATABASE
+  hits: 0
+  exact_tests: 0
+  matches: []
+
+GOLD-x33: NO_SIGNATURE_MATCH_IN_DATABASE
+  hits: 0
+  exact_tests: 0
+  matches: []
+
+GOLD-x9: NO_SIGNATURE_MATCH_IN_DATABASE
+  hits: 0
+  exact_tests: 0
+  matches: []
+
+Pairwise among found:
+
+Groups:
+  GOLD-x3
+  GOLD-x33
+  GOLD-x9

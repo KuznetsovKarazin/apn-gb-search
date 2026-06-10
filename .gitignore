@@ -1,0 +1,74 @@
+# ── External databases (large; download from Zenodo separately) ──────────────
+data/new_apns.txt
+data/apn_8bit.txt
+data/*.bin
+data/external/
+
+# ── Generated Magma job files (reproducible from seeds via gen_batch.py) ─────
+batch/*/apn_c22a_*.m
+batch/*/apn_c22_nl4_*.m
+batch_from_dataset/*.m
+batch_rnd/*.m
+
+# ── Magma raw output (large; intermediate) ────────────────────────────────────
+batch/*/results/apn_results_*.txt
+batch/*/logs/
+batch/*/errors/
+batch_from_dataset/logs/
+batch_rnd/log_*.txt
+batch_rnd/err_*.txt
+**/*.log
+**/*.err
+
+# ── Legacy batch directories ──────────────────────────────────────────────────
+batch_1/
+batch_rnd/
+batch_from_dataset/
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.Python
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+env/
+venv/
+.venv/
+sage_env/
+
+# ── Editor / IDE ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Backup and old versions ───────────────────────────────────────────────────
+*.bak
+*.orig
+*_old.py
+*_v[0-9].py
+classify_apn.py.bak
+collect_results_old.py
+
+# ── LaTeX auxiliary ───────────────────────────────────────────────────────────
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+
+# ── Office temp files ─────────────────────────────────────────────────────────
+~$*.docx
+README_GitHub.docx
+
+# ── Large intermediate files ──────────────────────────────────────────────────
+results/merged/ccz_verify.m

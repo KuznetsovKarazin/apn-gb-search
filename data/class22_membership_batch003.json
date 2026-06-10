@@ -1,0 +1,3409 @@
+{
+  "matrix": "A22 = block_diag(C4,C4), C4=make_companion([1,1,1,1],4)",
+  "criterion": "F(Ax) == A(F(x)) for all x in 0..255",
+  "summary": {
+    "records_checked": 174,
+    "unique_hashes": 174,
+    "in_class22": 128,
+    "out_class22": 46,
+    "errors": 0
+  },
+  "records": [
+    {
+      "index": 1,
+      "label": "1",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "47fa1051b94efff8",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 2,
+      "label": "2",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "63e18ed26336914c",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 3,
+      "label": "3",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "4814cba3cc6bcd29",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 4,
+      "label": "4",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "2e4d8b72834b2ac9",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          151,
+          106,
+          203
+        ],
+        [
+          49,
+          98,
+          202,
+          179,
+          150
+        ],
+        [
+          50,
+          100,
+          179,
+          120,
+          239
+        ],
+        [
+          51,
+          102,
+          159,
+          110,
+          195
+        ],
+        [
+          52,
+          104,
+          175,
+          142,
+          243
+        ]
+      ]
+    },
+    {
+      "index": 5,
+      "label": "5",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0ea0275ef21bb5ac",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 6,
+      "label": "6",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "50e6057987ecc01d",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 7,
+      "label": "7",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "67634f09622ec330",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 8,
+      "label": "8",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "778430c403fb09f9",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          160,
+          226,
+          52
+        ],
+        [
+          49,
+          98,
+          203,
+          216,
+          95
+        ],
+        [
+          50,
+          100,
+          96,
+          130,
+          244
+        ],
+        [
+          51,
+          102,
+          71,
+          158,
+          211
+        ],
+        [
+          52,
+          104,
+          233,
+          201,
+          125
+        ]
+      ]
+    },
+    {
+      "index": 9,
+      "label": "9",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "cbb5fe15d554ba62",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 10,
+      "label": "10",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "eb13679d261586b7",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          202,
+          226,
+          52
+        ],
+        [
+          49,
+          98,
+          161,
+          216,
+          95
+        ],
+        [
+          50,
+          100,
+          10,
+          130,
+          244
+        ],
+        [
+          51,
+          102,
+          45,
+          158,
+          211
+        ],
+        [
+          52,
+          104,
+          131,
+          201,
+          125
+        ]
+      ]
+    },
+    {
+      "index": 11,
+      "label": "11",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "e32d47ed73d76f3e",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          94,
+          226,
+          52
+        ],
+        [
+          49,
+          98,
+          53,
+          216,
+          95
+        ],
+        [
+          50,
+          100,
+          158,
+          130,
+          244
+        ],
+        [
+          51,
+          102,
+          185,
+          158,
+          211
+        ],
+        [
+          52,
+          104,
+          23,
+          201,
+          125
+        ]
+      ]
+    },
+    {
+      "index": 12,
+      "label": "12",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "985c5c4b1beeb030",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 13,
+      "label": "13",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "b8e4f3046913492a",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 14,
+      "label": "14",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "9f3c86c65599961f",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          92,
+          61,
+          101
+        ],
+        [
+          49,
+          98,
+          158,
+          92,
+          167
+        ],
+        [
+          50,
+          100,
+          241,
+          100,
+          200
+        ],
+        [
+          51,
+          102,
+          225,
+          148,
+          216
+        ],
+        [
+          52,
+          104,
+          235,
+          145,
+          210
+        ]
+      ]
+    },
+    {
+      "index": 15,
+      "label": "15",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "a2ebdc3f0df9074e",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          218,
+          61,
+          101
+        ],
+        [
+          49,
+          98,
+          24,
+          92,
+          167
+        ],
+        [
+          50,
+          100,
+          119,
+          100,
+          200
+        ],
+        [
+          51,
+          102,
+          103,
+          148,
+          216
+        ],
+        [
+          52,
+          104,
+          109,
+          145,
+          210
+        ]
+      ]
+    },
+    {
+      "index": 16,
+      "label": "16",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "80318e3991f00440",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 17,
+      "label": "17",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "2165309cf9bf2b1f",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          227,
+          61,
+          101
+        ],
+        [
+          49,
+          98,
+          33,
+          92,
+          167
+        ],
+        [
+          50,
+          100,
+          78,
+          100,
+          200
+        ],
+        [
+          51,
+          102,
+          94,
+          148,
+          216
+        ],
+        [
+          52,
+          104,
+          84,
+          145,
+          210
+        ]
+      ]
+    },
+    {
+      "index": 18,
+      "label": "18",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "da50ed5deba287c1",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 19,
+      "label": "19",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "e75fd7baae98428a",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          4,
+          64,
+          128
+        ],
+        [
+          49,
+          98,
+          246,
+          193,
+          114
+        ],
+        [
+          50,
+          100,
+          35,
+          92,
+          167
+        ],
+        [
+          51,
+          102,
+          85,
+          159,
+          209
+        ],
+        [
+          52,
+          104,
+          143,
+          10,
+          11
+        ]
+      ]
+    },
+    {
+      "index": 20,
+      "label": "20",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "351e932e88bbb77f",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          58,
+          64,
+          128
+        ],
+        [
+          49,
+          98,
+          200,
+          193,
+          114
+        ],
+        [
+          50,
+          100,
+          29,
+          92,
+          167
+        ],
+        [
+          51,
+          102,
+          107,
+          159,
+          209
+        ],
+        [
+          52,
+          104,
+          177,
+          10,
+          11
+        ]
+      ]
+    },
+    {
+      "index": 21,
+      "label": "21",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "56245589ccbfa3b1",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          190,
+          64,
+          128
+        ],
+        [
+          49,
+          98,
+          76,
+          193,
+          114
+        ],
+        [
+          50,
+          100,
+          153,
+          92,
+          167
+        ],
+        [
+          51,
+          102,
+          239,
+          159,
+          209
+        ],
+        [
+          52,
+          104,
+          53,
+          10,
+          11
+        ]
+      ]
+    },
+    {
+      "index": 22,
+      "label": "22",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "cb3ab84bb7f26d35",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 23,
+      "label": "23",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "19cebd0d74949af4",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 24,
+      "label": "24",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "1a504573b99c26cd",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 25,
+      "label": "25",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "4e1d885187198681",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 26,
+      "label": "26",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0b4784d090a62010",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 27,
+      "label": "27",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "ced81338dc0fc557",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 28,
+      "label": "28",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "f2fbe5423c3a7276",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 29,
+      "label": "29",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0177674afc0b0951",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 30,
+      "label": "30",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "262750df44bc3ec0",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          100,
+          57,
+          109
+        ],
+        [
+          49,
+          98,
+          59,
+          225,
+          50
+        ],
+        [
+          50,
+          100,
+          31,
+          243,
+          22
+        ],
+        [
+          51,
+          102,
+          76,
+          45,
+          69
+        ],
+        [
+          52,
+          104,
+          50,
+          234,
+          59
+        ]
+      ]
+    },
+    {
+      "index": 31,
+      "label": "31",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "38ef9eed2420550e",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          98,
+          57,
+          109
+        ],
+        [
+          49,
+          98,
+          61,
+          225,
+          50
+        ],
+        [
+          50,
+          100,
+          25,
+          243,
+          22
+        ],
+        [
+          51,
+          102,
+          74,
+          45,
+          69
+        ],
+        [
+          52,
+          104,
+          52,
+          234,
+          59
+        ]
+      ]
+    },
+    {
+      "index": 32,
+      "label": "32",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "7f19f9ac9ce591ba",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 33,
+      "label": "33",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "c5bb1441744a6c40",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          107,
+          57,
+          109
+        ],
+        [
+          49,
+          98,
+          52,
+          225,
+          50
+        ],
+        [
+          50,
+          100,
+          16,
+          243,
+          22
+        ],
+        [
+          51,
+          102,
+          67,
+          45,
+          69
+        ],
+        [
+          52,
+          104,
+          61,
+          234,
+          59
+        ]
+      ]
+    },
+    {
+      "index": 34,
+      "label": "34",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "09d766cbb0856ff7",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 35,
+      "label": "35",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "eeb9bb3e1e58bd4a",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 36,
+      "label": "36",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "260c740993e25a98",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          102,
+          245,
+          26
+        ],
+        [
+          49,
+          98,
+          112,
+          6,
+          12
+        ],
+        [
+          50,
+          100,
+          195,
+          168,
+          191
+        ],
+        [
+          51,
+          102,
+          151,
+          122,
+          235
+        ],
+        [
+          52,
+          104,
+          140,
+          128,
+          240
+        ]
+      ]
+    },
+    {
+      "index": 37,
+      "label": "37",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "b5ebbf75343df24f",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 38,
+      "label": "38",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "4801cb893731bc21",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          90,
+          148,
+          216
+        ],
+        [
+          49,
+          98,
+          60,
+          167,
+          190
+        ],
+        [
+          50,
+          100,
+          98,
+          112,
+          224
+        ],
+        [
+          51,
+          102,
+          169,
+          26,
+          43
+        ],
+        [
+          52,
+          104,
+          179,
+          239,
+          49
+        ]
+      ]
+    },
+    {
+      "index": 39,
+      "label": "39",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "206848144055de9a",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          109,
+          148,
+          216
+        ],
+        [
+          49,
+          98,
+          11,
+          167,
+          190
+        ],
+        [
+          50,
+          100,
+          85,
+          112,
+          224
+        ],
+        [
+          51,
+          102,
+          158,
+          26,
+          43
+        ],
+        [
+          52,
+          104,
+          132,
+          239,
+          49
+        ]
+      ]
+    },
+    {
+      "index": 40,
+      "label": "40",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "330b0a03fe9816f6",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          239,
+          148,
+          216
+        ],
+        [
+          49,
+          98,
+          137,
+          167,
+          190
+        ],
+        [
+          50,
+          100,
+          215,
+          112,
+          224
+        ],
+        [
+          51,
+          102,
+          28,
+          26,
+          43
+        ],
+        [
+          52,
+          104,
+          6,
+          239,
+          49
+        ]
+      ]
+    },
+    {
+      "index": 41,
+      "label": "41",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "94543d862337adfe",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 42,
+      "label": "42",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "eff20ce8ae56c9d6",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 43,
+      "label": "43",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "074efa7d98f87902",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 44,
+      "label": "44",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "b1af09543fcd32b9",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 45,
+      "label": "45",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "e56a8860f5959511",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 46,
+      "label": "46",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0065ad99a29216a3",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 47,
+      "label": "47",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "937638666b5226a5",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 48,
+      "label": "48",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "1ba2e49b5479eb6f",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 49,
+      "label": "49",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "9c1491d5beeeb1e1",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 50,
+      "label": "50",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0680397fd4f94db3",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 51,
+      "label": "51",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "bb2cb7ed2ecb59db",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 52,
+      "label": "52",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "37f9e472b44e69bf",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 53,
+      "label": "53",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0e04783cda398859",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 54,
+      "label": "54",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "c334b3229da7ea36",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 55,
+      "label": "55",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "f90c1cad2f040b2c",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          236,
+          187,
+          153
+        ],
+        [
+          49,
+          98,
+          155,
+          119,
+          238
+        ],
+        [
+          50,
+          100,
+          45,
+          212,
+          88
+        ],
+        [
+          51,
+          102,
+          172,
+          155,
+          217
+        ],
+        [
+          52,
+          104,
+          137,
+          134,
+          252
+        ]
+      ]
+    },
+    {
+      "index": 56,
+      "label": "56",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "30e618ff3db618f4",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          190,
+          187,
+          153
+        ],
+        [
+          49,
+          98,
+          201,
+          119,
+          238
+        ],
+        [
+          50,
+          100,
+          127,
+          212,
+          88
+        ],
+        [
+          51,
+          102,
+          254,
+          155,
+          217
+        ],
+        [
+          52,
+          104,
+          219,
+          134,
+          252
+        ]
+      ]
+    },
+    {
+      "index": 57,
+      "label": "57",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "2d91668bb6ed9bb8",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 58,
+      "label": "58",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "fdfec434f70b3ae7",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          203,
+          187,
+          153
+        ],
+        [
+          49,
+          98,
+          188,
+          119,
+          238
+        ],
+        [
+          50,
+          100,
+          10,
+          212,
+          88
+        ],
+        [
+          51,
+          102,
+          139,
+          155,
+          217
+        ],
+        [
+          52,
+          104,
+          174,
+          134,
+          252
+        ]
+      ]
+    },
+    {
+      "index": 59,
+      "label": "59",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "941bcc6ef972ddb0",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 60,
+      "label": "60",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "f6a1897bb608e9ee",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 61,
+      "label": "61",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "87daf483ed72ea11",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 62,
+      "label": "62",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "fa0a308fe43b4104",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 63,
+      "label": "63",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "24aa300bf453cf9a",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 64,
+      "label": "64",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "328eb86263a6c5dc",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 65,
+      "label": "65",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "3e6285e53bbb5c24",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 66,
+      "label": "66",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "95226aba47b50bea",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 67,
+      "label": "67",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "995af90a28668b27",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 68,
+      "label": "68",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "e30206181260e257",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 69,
+      "label": "69",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "fcc2e0c60dede8d6",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 70,
+      "label": "70",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "278fb2cabfce4354",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 71,
+      "label": "71",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "49e076bc94de1d0f",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 72,
+      "label": "72",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "14a7e27508ca5e53",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 73,
+      "label": "73",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "facf5151680b835e",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 74,
+      "label": "74",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "a37baecea81642c1",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 75,
+      "label": "75",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "455a8ffd3293d70a",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 76,
+      "label": "76",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "a2061ce285055819",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 77,
+      "label": "77",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "80f57fb6e6565f02",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 78,
+      "label": "78",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "378ae04eb40b1371",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          216,
+          153,
+          221
+        ],
+        [
+          49,
+          98,
+          39,
+          17,
+          34
+        ],
+        [
+          50,
+          100,
+          159,
+          181,
+          154
+        ],
+        [
+          51,
+          102,
+          109,
+          52,
+          104
+        ],
+        [
+          52,
+          104,
+          22,
+          254,
+          19
+        ]
+      ]
+    },
+    {
+      "index": 79,
+      "label": "79",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "c0f157b48ad05398",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          218,
+          153,
+          221
+        ],
+        [
+          49,
+          98,
+          37,
+          17,
+          34
+        ],
+        [
+          50,
+          100,
+          157,
+          181,
+          154
+        ],
+        [
+          51,
+          102,
+          111,
+          52,
+          104
+        ],
+        [
+          52,
+          104,
+          20,
+          254,
+          19
+        ]
+      ]
+    },
+    {
+      "index": 80,
+      "label": "80",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "6499c3560447b711",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 81,
+      "label": "81",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "2136f13870b43440",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          223,
+          153,
+          221
+        ],
+        [
+          49,
+          98,
+          32,
+          17,
+          34
+        ],
+        [
+          50,
+          100,
+          152,
+          181,
+          154
+        ],
+        [
+          51,
+          102,
+          106,
+          52,
+          104
+        ],
+        [
+          52,
+          104,
+          17,
+          254,
+          19
+        ]
+      ]
+    },
+    {
+      "index": 82,
+      "label": "82",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "cd59b4884ea33d26",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 83,
+      "label": "83",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "4ef4009e98a1aaad",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 84,
+      "label": "84",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "88af61d56de7eaf4",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 85,
+      "label": "85",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "47e8a26c3214d1dc",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 86,
+      "label": "86",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "3570e5d3af67a7f1",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 87,
+      "label": "87",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0dea9067dbeb95e3",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 88,
+      "label": "88",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "f318f9fc5f7199f7",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 89,
+      "label": "89",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "99aa025617c1ccf1",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 90,
+      "label": "90",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "cb3ee411f94fb325",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 91,
+      "label": "91",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0690430d9d539e5a",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          131,
+          77,
+          133
+        ],
+        [
+          49,
+          98,
+          154,
+          182,
+          156
+        ],
+        [
+          50,
+          100,
+          226,
+          114,
+          228
+        ],
+        [
+          51,
+          102,
+          255,
+          139,
+          249
+        ],
+        [
+          52,
+          104,
+          229,
+          126,
+          227
+        ]
+      ]
+    },
+    {
+      "index": 92,
+      "label": "92",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "3d7871252dec478f",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 93,
+      "label": "93",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "3a011ac413134114",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          50,
+          175,
+          177
+        ],
+        [
+          49,
+          98,
+          199,
+          34,
+          68
+        ],
+        [
+          50,
+          100,
+          1,
+          65,
+          130
+        ],
+        [
+          51,
+          102,
+          107,
+          116,
+          232
+        ],
+        [
+          52,
+          104,
+          10,
+          75,
+          137
+        ]
+      ]
+    },
+    {
+      "index": 94,
+      "label": "94",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "ce58b94d75a656e5",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          138,
+          175,
+          177
+        ],
+        [
+          49,
+          98,
+          127,
+          34,
+          68
+        ],
+        [
+          50,
+          100,
+          185,
+          65,
+          130
+        ],
+        [
+          51,
+          102,
+          211,
+          116,
+          232
+        ],
+        [
+          52,
+          104,
+          178,
+          75,
+          137
+        ]
+      ]
+    },
+    {
+      "index": 95,
+      "label": "95",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "b451c875b3410ccb",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 96,
+      "label": "96",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "e4bbe08961749173",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          9,
+          175,
+          177
+        ],
+        [
+          49,
+          98,
+          252,
+          34,
+          68
+        ],
+        [
+          50,
+          100,
+          58,
+          65,
+          130
+        ],
+        [
+          51,
+          102,
+          80,
+          116,
+          232
+        ],
+        [
+          52,
+          104,
+          49,
+          75,
+          137
+        ]
+      ]
+    },
+    {
+      "index": 97,
+      "label": "97",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "ba707125840819bf",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          210,
+          149,
+          218
+        ],
+        [
+          49,
+          98,
+          87,
+          216,
+          95
+        ],
+        [
+          50,
+          100,
+          22,
+          247,
+          30
+        ],
+        [
+          51,
+          102,
+          150,
+          183,
+          158
+        ],
+        [
+          52,
+          104,
+          165,
+          89,
+          173
+        ]
+      ]
+    },
+    {
+      "index": 98,
+      "label": "98",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "aa7630fc23b3bcc2",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 99,
+      "label": "99",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "d4207dc55a3a5d15",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          209,
+          149,
+          218
+        ],
+        [
+          49,
+          98,
+          84,
+          216,
+          95
+        ],
+        [
+          50,
+          100,
+          21,
+          247,
+          30
+        ],
+        [
+          51,
+          102,
+          149,
+          183,
+          158
+        ],
+        [
+          52,
+          104,
+          166,
+          89,
+          173
+        ]
+      ]
+    },
+    {
+      "index": 100,
+      "label": "100",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "59aa4845961aed9d",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          217,
+          149,
+          218
+        ],
+        [
+          49,
+          98,
+          92,
+          216,
+          95
+        ],
+        [
+          50,
+          100,
+          29,
+          247,
+          30
+        ],
+        [
+          51,
+          102,
+          157,
+          183,
+          158
+        ],
+        [
+          52,
+          104,
+          174,
+          89,
+          173
+        ]
+      ]
+    },
+    {
+      "index": 101,
+      "label": "101",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "4abb2b9245d23f9c",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 102,
+      "label": "102",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "e4578494a2cf13e7",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          83,
+          158,
+          211
+        ],
+        [
+          49,
+          98,
+          14,
+          71,
+          142
+        ],
+        [
+          50,
+          100,
+          212,
+          210,
+          84
+        ],
+        [
+          51,
+          102,
+          25,
+          187,
+          153
+        ],
+        [
+          52,
+          104,
+          169,
+          27,
+          41
+        ]
+      ]
+    },
+    {
+      "index": 103,
+      "label": "103",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "ea49e7c81fe14be9",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 104,
+      "label": "104",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "86006e636d1cd09b",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 105,
+      "label": "105",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "f33ba9abc67068c8",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 106,
+      "label": "106",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "e253b8e4ff15f659",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 107,
+      "label": "107",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "d0f5a5e687a5395b",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 108,
+      "label": "108",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "21896b43c34c197c",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 109,
+      "label": "109",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "694e2b530056fc28",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 110,
+      "label": "110",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "7a453dfa0068f02c",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          20,
+          177,
+          146
+        ],
+        [
+          49,
+          98,
+          118,
+          128,
+          240
+        ],
+        [
+          50,
+          100,
+          174,
+          20,
+          40
+        ],
+        [
+          51,
+          102,
+          245,
+          206,
+          115
+        ],
+        [
+          52,
+          104,
+          172,
+          21,
+          42
+        ]
+      ]
+    },
+    {
+      "index": 111,
+      "label": "111",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "7b8057aaf382d592",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 112,
+      "label": "112",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "c33ce0026ddcf512",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          45,
+          177,
+          146
+        ],
+        [
+          49,
+          98,
+          79,
+          128,
+          240
+        ],
+        [
+          50,
+          100,
+          151,
+          20,
+          40
+        ],
+        [
+          51,
+          102,
+          204,
+          206,
+          115
+        ],
+        [
+          52,
+          104,
+          149,
+          21,
+          42
+        ]
+      ]
+    },
+    {
+      "index": 113,
+      "label": "113",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "56ac01829c584f8c",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          171,
+          177,
+          146
+        ],
+        [
+          49,
+          98,
+          201,
+          128,
+          240
+        ],
+        [
+          50,
+          100,
+          17,
+          20,
+          40
+        ],
+        [
+          51,
+          102,
+          74,
+          206,
+          115
+        ],
+        [
+          52,
+          104,
+          19,
+          21,
+          42
+        ]
+      ]
+    },
+    {
+      "index": 114,
+      "label": "114",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "4e8f8a13e9f7e6da",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 115,
+      "label": "115",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "92b831b47090137a",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          243,
+          91,
+          169
+        ],
+        [
+          49,
+          98,
+          205,
+          188,
+          151
+        ],
+        [
+          50,
+          100,
+          37,
+          200,
+          127
+        ],
+        [
+          51,
+          102,
+          45,
+          204,
+          119
+        ],
+        [
+          52,
+          104,
+          164,
+          135,
+          254
+        ]
+      ]
+    },
+    {
+      "index": 116,
+      "label": "116",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "526f5be7ae82f5ce",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 117,
+      "label": "117",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "c1bc7dc28fa5c5fa",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          71,
+          169,
+          189
+        ],
+        [
+          49,
+          98,
+          66,
+          164,
+          184
+        ],
+        [
+          50,
+          100,
+          158,
+          50,
+          100
+        ],
+        [
+          51,
+          102,
+          44,
+          147,
+          214
+        ],
+        [
+          52,
+          104,
+          115,
+          75,
+          137
+        ]
+      ]
+    },
+    {
+      "index": 118,
+      "label": "118",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "82b3ba5589c28af0",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 119,
+      "label": "119",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "9318e21496908bfb",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 120,
+      "label": "120",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "bd0734e6ea337890",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 121,
+      "label": "121",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "4d3f39c33905e2c2",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 122,
+      "label": "122",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "33c30622f6fbd4fe",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          166,
+          203,
+          121
+        ],
+        [
+          49,
+          98,
+          69,
+          181,
+          154
+        ],
+        [
+          50,
+          100,
+          22,
+          107,
+          201
+        ],
+        [
+          51,
+          102,
+          207,
+          240,
+          16
+        ],
+        [
+          52,
+          104,
+          224,
+          232,
+          63
+        ]
+      ]
+    },
+    {
+      "index": 123,
+      "label": "123",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "aefdbcf63819cdb1",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 124,
+      "label": "124",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "6750803221d2ccfa",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 125,
+      "label": "125",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "f2fb202da1b7192a",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 126,
+      "label": "126",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "bab7cf19387552fe",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 127,
+      "label": "127",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "4a771809a92e8bed",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 128,
+      "label": "128",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "e74c89fc7111d465",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 129,
+      "label": "129",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "3ce3e00909600036",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 130,
+      "label": "130",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "82397d727f14dc2a",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 131,
+      "label": "131",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "1c6872196fdcc49b",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 132,
+      "label": "132",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "bfc22cea2f404170",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          163,
+          241,
+          18
+        ],
+        [
+          49,
+          98,
+          121,
+          100,
+          200
+        ],
+        [
+          50,
+          100,
+          204,
+          201,
+          125
+        ],
+        [
+          51,
+          102,
+          220,
+          57,
+          109
+        ],
+        [
+          52,
+          104,
+          178,
+          14,
+          3
+        ]
+      ]
+    },
+    {
+      "index": 133,
+      "label": "133",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "1858dd721d5facf7",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 134,
+      "label": "134",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "4ec05ad866498f30",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 135,
+      "label": "135",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "1bfb2f00dd13bb02",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 136,
+      "label": "136",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "ab32716ed6f7da52",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 137,
+      "label": "137",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "2de6b14a4cd6565d",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 138,
+      "label": "138",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "26ff51ed88a608d8",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 139,
+      "label": "139",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "994d9f71980b45bc",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          17,
+          74,
+          139
+        ],
+        [
+          49,
+          98,
+          73,
+          158,
+          211
+        ],
+        [
+          50,
+          100,
+          11,
+          191,
+          145
+        ],
+        [
+          51,
+          102,
+          100,
+          135,
+          254
+        ],
+        [
+          52,
+          104,
+          2,
+          180,
+          152
+        ]
+      ]
+    },
+    {
+      "index": 140,
+      "label": "140",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "45f4ab1a231bbb4e",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          229,
+          74,
+          139
+        ],
+        [
+          49,
+          98,
+          189,
+          158,
+          211
+        ],
+        [
+          50,
+          100,
+          255,
+          191,
+          145
+        ],
+        [
+          51,
+          102,
+          144,
+          135,
+          254
+        ],
+        [
+          52,
+          104,
+          246,
+          180,
+          152
+        ]
+      ]
+    },
+    {
+      "index": 141,
+      "label": "141",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0e012578882f9075",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 142,
+      "label": "142",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "c511d06a587d4938",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          127,
+          74,
+          139
+        ],
+        [
+          49,
+          98,
+          39,
+          158,
+          211
+        ],
+        [
+          50,
+          100,
+          101,
+          191,
+          145
+        ],
+        [
+          51,
+          102,
+          10,
+          135,
+          254
+        ],
+        [
+          52,
+          104,
+          108,
+          180,
+          152
+        ]
+      ]
+    },
+    {
+      "index": 143,
+      "label": "143",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "295ae43e62d9165d",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 144,
+      "label": "144",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "ec073e6355242a87",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          210,
+          62,
+          99
+        ],
+        [
+          49,
+          98,
+          189,
+          6,
+          12
+        ],
+        [
+          50,
+          100,
+          45,
+          182,
+          156
+        ],
+        [
+          51,
+          102,
+          136,
+          235,
+          57
+        ],
+        [
+          52,
+          104,
+          185,
+          4,
+          8
+        ]
+      ]
+    },
+    {
+      "index": 145,
+      "label": "145",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "9632b48d3db59433",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          94,
+          62,
+          99
+        ],
+        [
+          49,
+          98,
+          49,
+          6,
+          12
+        ],
+        [
+          50,
+          100,
+          161,
+          182,
+          156
+        ],
+        [
+          51,
+          102,
+          4,
+          235,
+          57
+        ],
+        [
+          52,
+          104,
+          53,
+          4,
+          8
+        ]
+      ]
+    },
+    {
+      "index": 146,
+      "label": "146",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "3868e354d31223cc",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 147,
+      "label": "147",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "7ad575b5616608dd",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          239,
+          62,
+          99
+        ],
+        [
+          49,
+          98,
+          128,
+          6,
+          12
+        ],
+        [
+          50,
+          100,
+          16,
+          182,
+          156
+        ],
+        [
+          51,
+          102,
+          181,
+          235,
+          57
+        ],
+        [
+          52,
+          104,
+          132,
+          4,
+          8
+        ]
+      ]
+    },
+    {
+      "index": 148,
+      "label": "148",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "94f5d2c31adbaa41",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 149,
+      "label": "149",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "a21055cb7aa28618",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 150,
+      "label": "150",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "5f0f40511be92c92",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 151,
+      "label": "151",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "67f3736f4911dd89",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 152,
+      "label": "152",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "84cbc18bc7101eb1",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 153,
+      "label": "153",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "537f22ed344a02e3",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 154,
+      "label": "154",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "79903da60c65fc6a",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 155,
+      "label": "155",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "336babc3e2bdb184",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 156,
+      "label": "156",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "8eed0d5f26661dc5",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 157,
+      "label": "157",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "2b9cd0d882a288a6",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 158,
+      "label": "158",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "5e56165f5fa155f2",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 159,
+      "label": "159",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "db035d262056490c",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 160,
+      "label": "160",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "e6a9b014822f4765",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 161,
+      "label": "161",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "fbb29e48ee5dfe77",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 162,
+      "label": "162",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "a00bd219a1efd010",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 163,
+      "label": "163",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "6b39a664b84b6bfc",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 164,
+      "label": "164",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "88fca1d412433588",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 165,
+      "label": "165",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "02b930d8a01eef4e",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 166,
+      "label": "166",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "7168b5ba1a2d6e6e",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 167,
+      "label": "167",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "627444489e6ccf51",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 168,
+      "label": "168",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "0c06135417124618",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          117,
+          68,
+          136
+        ],
+        [
+          49,
+          98,
+          191,
+          33,
+          66
+        ],
+        [
+          50,
+          100,
+          183,
+          37,
+          74
+        ],
+        [
+          51,
+          102,
+          170,
+          220,
+          87
+        ],
+        [
+          52,
+          104,
+          135,
+          197,
+          122
+        ]
+      ]
+    },
+    {
+      "index": 169,
+      "label": "169",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "b8f2edb3d4c4f1f6",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 170,
+      "label": "170",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "7f342630bfdd9d20",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 171,
+      "label": "171",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "41c91b133d25aff6",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 172,
+      "label": "172",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "f58d832fcab23edd",
+      "duplicate_hash": false,
+      "status": "OUT_CLASS22",
+      "num_violation_examples": 5,
+      "violations": [
+        [
+          48,
+          96,
+          47,
+          107,
+          201
+        ],
+        [
+          49,
+          98,
+          152,
+          199,
+          126
+        ],
+        [
+          50,
+          100,
+          147,
+          205,
+          117
+        ],
+        [
+          51,
+          102,
+          107,
+          73,
+          141
+        ],
+        [
+          52,
+          104,
+          201,
+          24,
+          47
+        ]
+      ]
+    },
+    {
+      "index": 173,
+      "label": "173",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "24f887a213cbf18f",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    },
+    {
+      "index": 174,
+      "label": "174",
+      "source": "batch\\batch_003\\results\\apn_found.json",
+      "hash16": "c9a197a9105ba61f",
+      "duplicate_hash": false,
+      "status": "IN_CLASS22",
+      "num_violation_examples": 0,
+      "violations": []
+    }
+  ]
+}

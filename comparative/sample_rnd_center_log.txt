@@ -1,0 +1,19 @@
+Magma V2.20-9     Sun Jun 07 2026 23:35:32 on DESKTOP-RGAQTBK [Seed = 
+4020265460]
+Type ? for help.  Type <Ctrl>-D to quit.
+
+Loading file "apn_c22_nl4_s121.m"
+=== c22_nl4_s121 ===
+norm_eqs= 200  free= 24
+  a= 50 /255 t= 3.859 s
+  a= 100 /255 t= 28.015 s
+  a= 150 /255 t= 67.046 s
+  a= 200 /255 t= 195.125 s
+  a= 250 /255 t= 407.203 s
+c22_nl4_s121 | build= 477.734 s | max_terms= 831 176
+c22_nl4_s121 | GB= 0.031 s | dim= -1 |G|= 1
+c22_nl4_s121 | dim=-1: no APN in this slice
+DONE c22_nl4_s121
+MAGMA_PROCESS_EXIT
+
+Total time: 478.156 seconds, Total memory usage: 48.43MB
