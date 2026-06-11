@@ -2,9 +2,9 @@
 
 **Gröbner Basis Search for New Quadratic APN Functions in Dimension 8**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.20626047)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20626047.svg)](https://doi.org/10.5281/zenodo.20626047)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2606.11967)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.11967-b31b1b.svg)](https://arxiv.org/abs/2606.11967)
 
 *Oleksandr Kuznetsov — eCampus University (Italy) & V.N. Karazin Kharkiv National University (Ukraine)*
 
