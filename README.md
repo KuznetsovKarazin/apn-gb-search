@@ -2,9 +2,9 @@
 
 **Gröbner Basis Search for New Quadratic APN Functions in Dimension 8**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.20626047)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2606.11967)
 
 *Oleksandr Kuznetsov — eCampus University (Italy) & V.N. Karazin Kharkiv National University (Ukraine)*
 
@@ -277,13 +277,27 @@ Pre-computed results are in `data/` and can be used directly without re-running 
 If you use this code or data, please cite:
 
 ```bibtex
+
+ @article{Kuznetsov_2026,  
+    author={Kuznetsov, Oleksandr}, 
+    title={Quadratic APN Functions in Dimension 8 via {G}r\"{o}bner Basis Search in a Self-Equivalence Subspace}, 
+    url={http://arxiv.org/abs/2606.11967}, 
+    DOI={10.48550/arXiv.2606.11967}, 
+    note={arXiv:2606.11967 [cs.CR]}, 
+    number={arXiv:2606.11967}, 
+    publisher={arXiv},
+    year={2026}, 
+    month=june 
+ }
+
+
 @software{kuznetsov2026apngb,
-  author  = {Kuznetsov, Oleksandr},
-  title   = {{apn-gb-search}: Quadratic APN Functions in Dimension 8 via {G}r\"{o}bner Basis Search in a Self-Equivalence Subspace},
-  year    = {2026},
-  url     = {https://github.com/KuznetsovKarazin/apn-gb-search},
-  doi     = {10.5281/zenodo.20626047},
-  version = {1.0.0}
+    author  = {Kuznetsov, Oleksandr},
+    title   = {{apn-gb-search}: Quadratic APN Functions in Dimension 8 via {G}r\"{o}bner Basis Search in a Self-Equivalence Subspace},
+    year    = {2026},
+    url     = {https://github.com/KuznetsovKarazin/apn-gb-search},
+    doi     = {10.5281/zenodo.20626047},
+    version = {1.0.0}
 }
 ```
 
